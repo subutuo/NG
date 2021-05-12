@@ -1,0 +1,7 @@
+node_modules
+.env
+image_*
+convertedToUtf8
+NG_DB스크립트_*
+ehr_ng_bak_*
+환경정보.md
