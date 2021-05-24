@@ -3,15 +3,27 @@
     "axios": "^0.21.1",
     "canvas": "^2.7.0",
     "case": "^1.6.3",
+    "chai": "^4.3.4",
+    "colors": "^1.4.0",
+    "diff": "^5.0.0",
     "dotenv": "^8.2.0",
     "exceljs": "^4.2.1",
+    "faker": "^5.5.3",
     "find": "^0.3.0",
     "iconv-lite": "^0.6.2",
     "jquery": "^3.6.0",
     "jsdom": "^16.5.3",
+    "korean-name-generator": "^1.0.4",
+    "lodash": "^4.17.21",
+    "mocha": "^8.4.0",
     "nodemailer": "^6.6.0",
     "oracledb": "^5.1.0",
     "puppeteer": "^8.0.0",
-    "replace-in-file": "^6.2.0"
+    "replace-in-file": "^6.2.0",
+    "util": "^0.12.3",
+    "vizion": "^2.2.1"
+  },
+  "scripts": {
+    "test": "mocha 12.mochaTest/test/init.js --recursive 12.mochaTest/test --timeout 60000"
   }
 }

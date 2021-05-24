@@ -1,0 +1,297 @@
+Cell {
+  _row: Row {
+    _worksheet: Worksheet {
+      id: [33m1[39m,
+      orderNo: [33m0[39m,
+      name: [32m'Sheet1'[39m,
+      state: [32m'visible'[39m,
+      _rows: [ [36m[Circular][39m ],
+      _columns: [
+        Column {
+          _worksheet: [36m[Circular][39m,
+          _number: [33m1[39m,
+          _key: [90mundefined[39m,
+          width: [33m16.5[39m,
+          _outlineLevel: [90mundefined[39m,
+          style: {},
+          _header: [90mundefined[39m,
+          _hidden: [33mfalse[39m
+        }
+      ],
+      _keys: {},
+      _merges: {},
+      rowBreaks: [],
+      _workbook: Workbook {
+        created: [35m2015-06-05T18:17:20.000Z[39m,
+        modified: [35m2021-05-17T05:38:56.000Z[39m,
+        properties: { date1904: [33mfalse[39m },
+        calcProperties: {},
+        _worksheets: [ [90m<1 empty item>[39m, [36m[Circular][39m ],
+        views: [
+          {
+            x: [33m-120[39m,
+            y: [33m-120[39m,
+            width: [33m29040[39m,
+            height: [33m15840[39m,
+            visibility: [32m'visible'[39m
+          }
+        ],
+        media: [],
+        _definedNames: DefinedNames { matrixMap: {} },
+        _xlsx: XLSX { workbook: [36m[Circular][39m },
+        creator: [32m'youngjin song'[39m,
+        lastModifiedBy: [32m'youngjin song'[39m,
+        lastPrinted: [90mundefined[39m,
+        company: [32m''[39m,
+        manager: [90mundefined[39m,
+        title: [90mundefined[39m,
+        subject: [90mundefined[39m,
+        keywords: [90mundefined[39m,
+        category: [90mundefined[39m,
+        description: [90mundefined[39m,
+        language: [90mundefined[39m,
+        revision: [90mundefined[39m,
+        contentStatus: [90mundefined[39m,
+        _themes: {
+          theme1: [32m'<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\r\n'[39m +
+            [32m'<a:theme xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" name="Office Theme"><a:themeElements><a:clrScheme name="Office"><a:dk1><a:sysClr val="windowText" lastClr="000000"/></a:dk1><a:lt1><a:sysClr val="window" lastClr="FFFFFF"/></a:lt1><a:dk2><a:srgbClr val="44546A"/></a:dk2><a:lt2><a:srgbClr val="E7E6E6"/></a:lt2><a:accent1><a:srgbClr val="5B9BD5"/></a:accent1><a:accent2><a:srgbClr val="ED7D31"/></a:accent2><a:accent3><a:srgbClr val="A5A5A5"/></a:accent3><a:accent4><a:srgbClr val="FFC000"/></a:accent4><a:accent5><a:srgbClr val="4472C4"/></a:accent5><a:accent6><a:srgbClr val="70AD47"/></a:accent6><a:hlink><a:srgbClr val="0563C1"/></a:hlink><a:folHlink><a:srgbClr val="954F72"/></a:folHlink></a:clrScheme><a:fontScheme name="Office"><a:majorFont><a:latin typeface="Calibri Light" panose="020F0302020204030204"/><a:ea typeface=""/><a:cs typeface=""/><a:font script="Jpan" typeface="游ゴシック Light"/><a:font script="Hang" typeface="맑은 고딕"/><a:font script="Hans" typeface="等线 Light"/><a:font script="Hant" typeface="新細明體"/><a:font script="Arab" typeface="Times New Roman"/><a:font script="Hebr" typeface="Times New Roman"/><a:font script="Thai" typeface="Tahoma"/><a:font script="Ethi" typeface="Nyala"/><a:font script="Beng" typeface="Vrinda"/><a:font script="Gujr" typeface="Shruti"/><a:font script="Khmr" typeface="MoolBoran"/><a:font script="Knda" typeface="Tunga"/><a:font script="Guru" typeface="Raavi"/><a:font script="Cans" typeface="Euphemia"/><a:font script="Cher" typeface="Plantagenet Cherokee"/><a:font script="Yiii" typeface="Microsoft Yi Baiti"/><a:font script="Tibt" typeface="Microsoft Himalaya"/><a:font script="Thaa" typeface="MV Boli"/><a:font script="Deva" typeface="Mangal"/><a:font script="Telu" typeface="Gautami"/><a:font script="Taml" typeface="Latha"/><a:font script="Syrc" typeface="Estrangelo Edessa"/><a:font script="Orya" typeface="Kalinga"/><a:font script="Mlym" typeface="Kartika"/><a:font script="Laoo" typeface="DokChampa"/><a:font script="Sinh" typeface="Iskoola Pota"/><a:font script="Mong" typeface="Mongolian Baiti"/><a:font script="Viet" typeface="Times New Roman"/><a:font script="Uigh" typeface="Microsoft Uighur"/><a:font script="Geor" typeface="Sylfaen"/></a:majorFont><a:minorFont><a:latin typeface="Calibri" panose="020F0502020204030204"/><a:ea typeface=""/><a:cs typeface=""/><a:font script="Jpan" typeface="游ゴシック"/><a:font script="Hang" typeface="맑은 고딕"/><a:font script="Hans" typeface="等线"/><a:font script="Hant" typeface="新細明體"/><a:font script="Arab" typeface="Arial"/><a:font script="Hebr" typeface="Arial"/><a:font script="Thai" typeface="Tahoma"/><a:font script="Ethi" typeface="Nyala"/><a:font script="Beng" typeface="Vrinda"/><a:font script="Gujr" typeface="Shruti"/><a:font script="Khmr" typeface="DaunPenh"/><a:font script="Knda" typeface="Tunga"/><a:font script="Guru" typeface="Raavi"/><a:font script="Cans" typeface="Euphemia"/><a:font script="Cher" typeface="Plantagenet Cherokee"/><a:font script="Yiii" typeface="Microsoft Yi Baiti"/><a:font script="Tibt" typeface="Microsoft Himalaya"/><a:font script="Thaa" typeface="MV Boli"/><a:font script="Deva" typeface="Mangal"/><a:font script="Telu" typeface="Gautami"/><a:font script="Taml" typeface="Latha"/><a:font script="Syrc" typeface="Estrangelo Edessa"/><a:font script="Orya" typeface="Kalinga"/><a:font script="Mlym" typeface="Kartika"/><a:font script="Laoo" typeface="DokChampa"/><a:font script="Sinh" typeface="Iskoola Pota"/><a:font script="Mong" typeface="Mongolian Baiti"/><a:font script="Viet" typeface="Arial"/><a:font script="Uigh" typeface="Microsoft Uighur"/><a:font script="Geor" typeface="Sylfaen"/></a:minorFont></a:fontScheme><a:fmtScheme name="Office"><a:fillStyleLst><a:solidFill><a:schemeClr val="phClr"/></a:solidFill><a:gradFill rotWithShape="1"><a:gsLst><a:gs pos="0"><a:schemeClr val="phClr"><a:lumMod val="110000"/><a:satMod val="105000"/><a:tint val="67000"/></a:schemeClr></a:gs><a:gs pos="50000"><a:schemeClr val="phClr"><a:lumMod val="105000"/><a:satMod val="103000"/><a:tint val="73000"/></a:schemeClr></a:gs><a:gs pos="100000"><a:schemeClr val="phClr"><a:lumMod val="105000"/><a:satMod val="109000"/><a:tint val="81000"/></a:schemeClr></a:gs></a:gsLst><a:lin ang="5400000" scaled="0"/></a:gradFill><a:gradFill rotWithShape="1"><a:gsLst><a:gs pos="0"><a:schemeClr val="phClr"><a:satMod val="103000"/><a:lumMod val="102000"/><a:tint val="94000"/></a:schemeClr></a:gs><a:gs pos="50000"><a:schemeClr val="phClr"><a:satMod val="110000"/><a:lumMod val="100000"/><a:shade val="100000"/></a:schemeClr></a:gs><a:gs pos="100000"><a:schemeClr val="phClr"><a:lumMod val="99000"/><a:satMod val="120000"/><a:shade val="78000"/></a:schemeClr></a:gs></a:gsLst><a:lin ang="5400000" scaled="0"/></a:gradFill></a:fillStyleLst><a:lnStyleLst><a:ln w="6350" cap="flat" cmpd="sng" algn="ctr"><a:solidFill><a:schemeClr val="phClr"/></a:solidFill><a:prstDash val="solid"/><a:miter lim="800000"/></a:ln><a:ln w="12700" cap="flat" cmpd="sng" algn="ctr"><a:solidFill><a:schemeClr val="phClr"/></a:solidFill><a:prstDash val="solid"/><a:miter lim="800000"/></a:ln><a:ln w="19050" cap="flat" cmpd="sng" algn="ctr"><a:solidFill><a:schemeClr val="phClr"/></a:solidFill><a:prstDash val="solid"/><a:miter lim="800000"/></a:ln></a:lnStyleLst><a:effectStyleLst><a:effectStyle><a:effectLst/></a:effectStyle><a:effectStyle><a:effectLst/></a:effectStyle><a:effectStyle><a:effectLst><a:outerShdw blurRad="57150" dist="19050" dir="5400000" algn="ctr" rotWithShape="0"><a:srgbClr val="000000"><a:alpha val="63000"/></a:srgbClr></a:outerShdw></a:effectLst></a:effectStyle></a:effectStyleLst><a:bgFillStyleLst><a:solidFill><a:schemeClr val="phClr"/></a:solidFill><a:solidFill><a:schemeClr val="phClr"><a:tint val="95000"/><a:satMod val="170000"/></a:schemeClr></a:solidFill><a:gradFill rotWithShape="1"><a:gsLst><a:gs pos="0"><a:schemeClr val="phClr"><a:tint val="93000"/><a:satMod val="150000"/><a:shade val="98000"/><a:lumMod val="102000"/></a:schemeClr></a:gs><a:gs pos="50000"><a:schemeClr val="phClr"><a:tint val="98000"/><a:satMod val="130000"/><a:shade val="90000"/><a:lumMod val="103000"/></a:schemeClr></a:gs><a:gs pos="100000"><a:schemeClr val="phClr"><a:shade val="63000"/><a:satMod val="120000"/></a:schemeClr></a:gs></a:gsLst><a:lin ang="5400000" scaled="0"/></a:gradFill></a:bgFillStyleLst></a:fmtScheme></a:themeElements><a:objectDefaults/><a:extraClrSchemeLst/><a:extLst><a:ext uri="{05A4C25C-085E-4340-85A3-A5531E510DB2}"><thm15:themeFamily xmlns:thm15="http://schemas.microsoft.com/office/thememl/2012/main" name="Office Theme" id="{62F939B6-93AF-4DB8-9C6B-D6C7DFDC589F}" vid="{4A3C46E8-61CC-4603-A589-7422A47A8E4A}"/></a:ext></a:extLst></a:theme>'[39m
+        }
+      },
+      properties: {
+        defaultRowHeight: [33m16.5[39m,
+        dyDescent: [33m0.3[39m,
+        outlineLevelRow: [33m0[39m,
+        outlineLevelCol: [33m0[39m
+      },
+      pageSetup: {
+        fitToPage: [33mfalse[39m,
+        margins: {
+          left: [33m0.7[39m,
+          right: [33m0.7[39m,
+          top: [33m0.75[39m,
+          bottom: [33m0.75[39m,
+          header: [33m0.3[39m,
+          footer: [33m0.3[39m
+        },
+        paperSize: [33m9[39m,
+        orientation: [32m'portrait'[39m,
+        horizontalDpi: [33m4294967295[39m,
+        verticalDpi: [33m4294967295[39m,
+        pageOrder: [32m'downThenOver'[39m,
+        blackAndWhite: [33mfalse[39m,
+        draft: [33mfalse[39m,
+        cellComments: [32m'None'[39m,
+        errors: [32m'displayed'[39m,
+        scale: [33m100[39m,
+        fitToWidth: [33m1[39m,
+        fitToHeight: [33m1[39m,
+        firstPageNumber: [33m1[39m,
+        useFirstPageNumber: [33mfalse[39m,
+        usePrinterDefaults: [33mfalse[39m,
+        copies: [33m1[39m
+      },
+      headerFooter: [1mnull[22m,
+      dataValidations: DataValidations { model: {} },
+      views: [
+        {
+          workbookViewId: [33m0[39m,
+          rightToLeft: [33mfalse[39m,
+          state: [32m'normal'[39m,
+          showRuler: [33mtrue[39m,
+          showRowColHeaders: [33mtrue[39m,
+          showGridLines: [33mtrue[39m,
+          zoomScale: [33m100[39m,
+          zoomScaleNormal: [33m100[39m,
+          activeCell: [32m'F6'[39m
+        }
+      ],
+      autoFilter: [90mundefined[39m,
+      _media: [],
+      sheetProtection: [90mundefined[39m,
+      tables: {},
+      conditionalFormattings: []
+    },
+    _number: [33m1[39m,
+    _cells: [ [36m[Circular][39m ],
+    style: {},
+    _outlineLevel: [33m0[39m,
+    _hidden: [90mundefined[39m
+  },
+  _column: Column {
+    _worksheet: Worksheet {
+      id: [33m1[39m,
+      orderNo: [33m0[39m,
+      name: [32m'Sheet1'[39m,
+      state: [32m'visible'[39m,
+      _rows: [
+        Row {
+          _worksheet: [36m[Circular][39m,
+          _number: [33m1[39m,
+          _cells: [ [36m[Circular][39m ],
+          style: {},
+          _outlineLevel: [33m0[39m,
+          _hidden: [90mundefined[39m
+        }
+      ],
+      _columns: [ [36m[Circular][39m ],
+      _keys: {},
+      _merges: {},
+      rowBreaks: [],
+      _workbook: Workbook {
+        created: [35m2015-06-05T18:17:20.000Z[39m,
+        modified: [35m2021-05-17T05:38:56.000Z[39m,
+        properties: { date1904: [33mfalse[39m },
+        calcProperties: {},
+        _worksheets: [ [90m<1 empty item>[39m, [36m[Circular][39m ],
+        views: [
+          {
+            x: [33m-120[39m,
+            y: [33m-120[39m,
+            width: [33m29040[39m,
+            height: [33m15840[39m,
+            visibility: [32m'visible'[39m
+          }
+        ],
+        media: [],
+        _definedNames: DefinedNames { matrixMap: {} },
+        _xlsx: XLSX { workbook: [36m[Circular][39m },
+        creator: [32m'youngjin song'[39m,
+        lastModifiedBy: [32m'youngjin song'[39m,
+        lastPrinted: [90mundefined[39m,
+        company: [32m''[39m,
+        manager: [90mundefined[39m,
+        title: [90mundefined[39m,
+        subject: [90mundefined[39m,
+        keywords: [90mundefined[39m,
+        category: [90mundefined[39m,
+        description: [90mundefined[39m,
+        language: [90mundefined[39m,
+        revision: [90mundefined[39m,
+        contentStatus: [90mundefined[39m,
+        _themes: {
+          theme1: [32m'<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\r\n'[39m +
+            [32m'<a:theme xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" name="Office Theme"><a:themeElements><a:clrScheme name="Office"><a:dk1><a:sysClr val="windowText" lastClr="000000"/></a:dk1><a:lt1><a:sysClr val="window" lastClr="FFFFFF"/></a:lt1><a:dk2><a:srgbClr val="44546A"/></a:dk2><a:lt2><a:srgbClr val="E7E6E6"/></a:lt2><a:accent1><a:srgbClr val="5B9BD5"/></a:accent1><a:accent2><a:srgbClr val="ED7D31"/></a:accent2><a:accent3><a:srgbClr val="A5A5A5"/></a:accent3><a:accent4><a:srgbClr val="FFC000"/></a:accent4><a:accent5><a:srgbClr val="4472C4"/></a:accent5><a:accent6><a:srgbClr val="70AD47"/></a:accent6><a:hlink><a:srgbClr val="0563C1"/></a:hlink><a:folHlink><a:srgbClr val="954F72"/></a:folHlink></a:clrScheme><a:fontScheme name="Office"><a:majorFont><a:latin typeface="Calibri Light" panose="020F0302020204030204"/><a:ea typeface=""/><a:cs typeface=""/><a:font script="Jpan" typeface="游ゴシック Light"/><a:font script="Hang" typeface="맑은 고딕"/><a:font script="Hans" typeface="等线 Light"/><a:font script="Hant" typeface="新細明體"/><a:font script="Arab" typeface="Times New Roman"/><a:font script="Hebr" typeface="Times New Roman"/><a:font script="Thai" typeface="Tahoma"/><a:font script="Ethi" typeface="Nyala"/><a:font script="Beng" typeface="Vrinda"/><a:font script="Gujr" typeface="Shruti"/><a:font script="Khmr" typeface="MoolBoran"/><a:font script="Knda" typeface="Tunga"/><a:font script="Guru" typeface="Raavi"/><a:font script="Cans" typeface="Euphemia"/><a:font script="Cher" typeface="Plantagenet Cherokee"/><a:font script="Yiii" typeface="Microsoft Yi Baiti"/><a:font script="Tibt" typeface="Microsoft Himalaya"/><a:font script="Thaa" typeface="MV Boli"/><a:font script="Deva" typeface="Mangal"/><a:font script="Telu" typeface="Gautami"/><a:font script="Taml" typeface="Latha"/><a:font script="Syrc" typeface="Estrangelo Edessa"/><a:font script="Orya" typeface="Kalinga"/><a:font script="Mlym" typeface="Kartika"/><a:font script="Laoo" typeface="DokChampa"/><a:font script="Sinh" typeface="Iskoola Pota"/><a:font script="Mong" typeface="Mongolian Baiti"/><a:font script="Viet" typeface="Times New Roman"/><a:font script="Uigh" typeface="Microsoft Uighur"/><a:font script="Geor" typeface="Sylfaen"/></a:majorFont><a:minorFont><a:latin typeface="Calibri" panose="020F0502020204030204"/><a:ea typeface=""/><a:cs typeface=""/><a:font script="Jpan" typeface="游ゴシック"/><a:font script="Hang" typeface="맑은 고딕"/><a:font script="Hans" typeface="等线"/><a:font script="Hant" typeface="新細明體"/><a:font script="Arab" typeface="Arial"/><a:font script="Hebr" typeface="Arial"/><a:font script="Thai" typeface="Tahoma"/><a:font script="Ethi" typeface="Nyala"/><a:font script="Beng" typeface="Vrinda"/><a:font script="Gujr" typeface="Shruti"/><a:font script="Khmr" typeface="DaunPenh"/><a:font script="Knda" typeface="Tunga"/><a:font script="Guru" typeface="Raavi"/><a:font script="Cans" typeface="Euphemia"/><a:font script="Cher" typeface="Plantagenet Cherokee"/><a:font script="Yiii" typeface="Microsoft Yi Baiti"/><a:font script="Tibt" typeface="Microsoft Himalaya"/><a:font script="Thaa" typeface="MV Boli"/><a:font script="Deva" typeface="Mangal"/><a:font script="Telu" typeface="Gautami"/><a:font script="Taml" typeface="Latha"/><a:font script="Syrc" typeface="Estrangelo Edessa"/><a:font script="Orya" typeface="Kalinga"/><a:font script="Mlym" typeface="Kartika"/><a:font script="Laoo" typeface="DokChampa"/><a:font script="Sinh" typeface="Iskoola Pota"/><a:font script="Mong" typeface="Mongolian Baiti"/><a:font script="Viet" typeface="Arial"/><a:font script="Uigh" typeface="Microsoft Uighur"/><a:font script="Geor" typeface="Sylfaen"/></a:minorFont></a:fontScheme><a:fmtScheme name="Office"><a:fillStyleLst><a:solidFill><a:schemeClr val="phClr"/></a:solidFill><a:gradFill rotWithShape="1"><a:gsLst><a:gs pos="0"><a:schemeClr val="phClr"><a:lumMod val="110000"/><a:satMod val="105000"/><a:tint val="67000"/></a:schemeClr></a:gs><a:gs pos="50000"><a:schemeClr val="phClr"><a:lumMod val="105000"/><a:satMod val="103000"/><a:tint val="73000"/></a:schemeClr></a:gs><a:gs pos="100000"><a:schemeClr val="phClr"><a:lumMod val="105000"/><a:satMod val="109000"/><a:tint val="81000"/></a:schemeClr></a:gs></a:gsLst><a:lin ang="5400000" scaled="0"/></a:gradFill><a:gradFill rotWithShape="1"><a:gsLst><a:gs pos="0"><a:schemeClr val="phClr"><a:satMod val="103000"/><a:lumMod val="102000"/><a:tint val="94000"/></a:schemeClr></a:gs><a:gs pos="50000"><a:schemeClr val="phClr"><a:satMod val="110000"/><a:lumMod val="100000"/><a:shade val="100000"/></a:schemeClr></a:gs><a:gs pos="100000"><a:schemeClr val="phClr"><a:lumMod val="99000"/><a:satMod val="120000"/><a:shade val="78000"/></a:schemeClr></a:gs></a:gsLst><a:lin ang="5400000" scaled="0"/></a:gradFill></a:fillStyleLst><a:lnStyleLst><a:ln w="6350" cap="flat" cmpd="sng" algn="ctr"><a:solidFill><a:schemeClr val="phClr"/></a:solidFill><a:prstDash val="solid"/><a:miter lim="800000"/></a:ln><a:ln w="12700" cap="flat" cmpd="sng" algn="ctr"><a:solidFill><a:schemeClr val="phClr"/></a:solidFill><a:prstDash val="solid"/><a:miter lim="800000"/></a:ln><a:ln w="19050" cap="flat" cmpd="sng" algn="ctr"><a:solidFill><a:schemeClr val="phClr"/></a:solidFill><a:prstDash val="solid"/><a:miter lim="800000"/></a:ln></a:lnStyleLst><a:effectStyleLst><a:effectStyle><a:effectLst/></a:effectStyle><a:effectStyle><a:effectLst/></a:effectStyle><a:effectStyle><a:effectLst><a:outerShdw blurRad="57150" dist="19050" dir="5400000" algn="ctr" rotWithShape="0"><a:srgbClr val="000000"><a:alpha val="63000"/></a:srgbClr></a:outerShdw></a:effectLst></a:effectStyle></a:effectStyleLst><a:bgFillStyleLst><a:solidFill><a:schemeClr val="phClr"/></a:solidFill><a:solidFill><a:schemeClr val="phClr"><a:tint val="95000"/><a:satMod val="170000"/></a:schemeClr></a:solidFill><a:gradFill rotWithShape="1"><a:gsLst><a:gs pos="0"><a:schemeClr val="phClr"><a:tint val="93000"/><a:satMod val="150000"/><a:shade val="98000"/><a:lumMod val="102000"/></a:schemeClr></a:gs><a:gs pos="50000"><a:schemeClr val="phClr"><a:tint val="98000"/><a:satMod val="130000"/><a:shade val="90000"/><a:lumMod val="103000"/></a:schemeClr></a:gs><a:gs pos="100000"><a:schemeClr val="phClr"><a:shade val="63000"/><a:satMod val="120000"/></a:schemeClr></a:gs></a:gsLst><a:lin ang="5400000" scaled="0"/></a:gradFill></a:bgFillStyleLst></a:fmtScheme></a:themeElements><a:objectDefaults/><a:extraClrSchemeLst/><a:extLst><a:ext uri="{05A4C25C-085E-4340-85A3-A5531E510DB2}"><thm15:themeFamily xmlns:thm15="http://schemas.microsoft.com/office/thememl/2012/main" name="Office Theme" id="{62F939B6-93AF-4DB8-9C6B-D6C7DFDC589F}" vid="{4A3C46E8-61CC-4603-A589-7422A47A8E4A}"/></a:ext></a:extLst></a:theme>'[39m
+        }
+      },
+      properties: {
+        defaultRowHeight: [33m16.5[39m,
+        dyDescent: [33m0.3[39m,
+        outlineLevelRow: [33m0[39m,
+        outlineLevelCol: [33m0[39m
+      },
+      pageSetup: {
+        fitToPage: [33mfalse[39m,
+        margins: {
+          left: [33m0.7[39m,
+          right: [33m0.7[39m,
+          top: [33m0.75[39m,
+          bottom: [33m0.75[39m,
+          header: [33m0.3[39m,
+          footer: [33m0.3[39m
+        },
+        paperSize: [33m9[39m,
+        orientation: [32m'portrait'[39m,
+        horizontalDpi: [33m4294967295[39m,
+        verticalDpi: [33m4294967295[39m,
+        pageOrder: [32m'downThenOver'[39m,
+        blackAndWhite: [33mfalse[39m,
+        draft: [33mfalse[39m,
+        cellComments: [32m'None'[39m,
+        errors: [32m'displayed'[39m,
+        scale: [33m100[39m,
+        fitToWidth: [33m1[39m,
+        fitToHeight: [33m1[39m,
+        firstPageNumber: [33m1[39m,
+        useFirstPageNumber: [33mfalse[39m,
+        usePrinterDefaults: [33mfalse[39m,
+        copies: [33m1[39m
+      },
+      headerFooter: [1mnull[22m,
+      dataValidations: DataValidations { model: {} },
+      views: [
+        {
+          workbookViewId: [33m0[39m,
+          rightToLeft: [33mfalse[39m,
+          state: [32m'normal'[39m,
+          showRuler: [33mtrue[39m,
+          showRowColHeaders: [33mtrue[39m,
+          showGridLines: [33mtrue[39m,
+          zoomScale: [33m100[39m,
+          zoomScaleNormal: [33m100[39m,
+          activeCell: [32m'F6'[39m
+        }
+      ],
+      autoFilter: [90mundefined[39m,
+      _media: [],
+      sheetProtection: [90mundefined[39m,
+      tables: {},
+      conditionalFormattings: []
+    },
+    _number: [33m1[39m,
+    _key: [90mundefined[39m,
+    width: [33m16.5[39m,
+    _outlineLevel: [90mundefined[39m,
+    style: {},
+    _header: [90mundefined[39m,
+    _hidden: [33mfalse[39m
+  },
+  _address: [32m'A1'[39m,
+  _value: RichTextValue {
+    model: {
+      address: [32m'A1'[39m,
+      styleId: [90mundefined[39m,
+      value: {
+        richText: [
+          { text: [32m'언제 '[39m },
+          {
+            font: {
+              size: [33m11[39m,
+              color: { argb: [32m'FFFF0000'[39m },
+              name: [32m'맑은 고딕'[39m,
+              family: [33m3[39m,
+              charset: [33m129[39m,
+              scheme: [32m'minor'[39m
+            },
+            text: [32m'레드불'[39m
+          },
+          {
+            font: {
+              size: [33m11[39m,
+              color: { theme: [33m1[39m },
+              name: [32m'맑은 고딕'[39m,
+              family: [33m2[39m,
+              scheme: [32m'minor'[39m
+            },
+            text: [32m' 되나'[39m
+          }
+        ]
+      },
+      type: [33m8[39m,
+      style: {
+        font: {
+          size: [33m11[39m,
+          color: { theme: [33m1[39m },
+          name: [32m'맑은 고딕'[39m,
+          family: [33m2[39m,
+          scheme: [32m'minor'[39m
+        },
+        border: {},
+        fill: { type: [32m'pattern'[39m, pattern: [32m'none'[39m },
+        alignment: { vertical: [32m'middle'[39m }
+      }
+    }
+  },
+  style: {
+    font: {
+      size: [33m11[39m,
+      color: { theme: [33m1[39m },
+      name: [32m'맑은 고딕'[39m,
+      family: [33m2[39m,
+      scheme: [32m'minor'[39m
+    },
+    border: {},
+    fill: { type: [32m'pattern'[39m, pattern: [32m'none'[39m },
+    alignment: { vertical: [32m'middle'[39m }
+  },
+  _mergeCount: [33m0[39m
+}

@@ -39,9 +39,9 @@ async function getTargetList() {
                AND t.LANG_CD = 'en'
                AND t.COUNTRY_CD = 'US'
                AND regexp_like(t.KEY_TEXT, '[가-힣]')
-               /* 괄호 없는것만 햇엇음
+               /* 괄호 없는것만 햇엇음 */
                AND NOT regexp_like(t.KEY_TEXT, '[''"\\(\\)\\[]')
-               */
+               
 
                /* 임시
                AND NOT REGEXP_LIKE(T.KEY_TEXT, '[''"\[]')
@@ -49,7 +49,7 @@ async function getTargetList() {
                AND t.KEY_TEXT NOT LIKE '%\\n%'
                */
 
-               AND t.KEY_LEVEL = 'tsys005'
+               -- AND t.KEY_LEVEL = 'tsys005'
            ) b
      WHERE 1=1
        AND a.KEY_LEVEL = b.key_level

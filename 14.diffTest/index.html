@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <pre id="display"></pre>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jsdiff/4.0.0/diff.js"></script>
+    <script>
+      const one = 'beep boop',
+        other = 'beep boob blah',
+        color = ''
+
+      let span = null
+
+      const diff = Diff.diffChars(one, other),
+        display = document.getElementById('display'),
+        fragment = document.createDocumentFragment()
+
+      diff.forEach((part) => {
+        // green for additions, red for deletions
+        // grey for common parts
+        const color = part.added ? 'green' : part.removed ? 'red' : 'grey'
+        span = document.createElement('span')
+        span.style.color = color
+        span.appendChild(document.createTextNode(part.value))
+        fragment.appendChild(span)
+      })
+
+      display.appendChild(fragment)
+    </script>
+  </body>
+</html>
+l
