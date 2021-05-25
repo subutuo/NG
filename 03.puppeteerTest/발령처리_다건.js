@@ -7,7 +7,8 @@ const ORIGIN = 'http://localhost:8080'
 const ENTER_CD = `YJ_DEV`
 let MENU_LIST = []
 let browser, page, menuSearchFrame
-const orgCdList = ['F1A', 'F3C', 'F1C', 'F3E'] // F1A 인사, F3C 회계, F1C 총무, F3E 자금
+// const orgCdList = ['F1A', 'F3C', 'F1C', 'F3E'] // F1A 인사, F3C 회계, F1C 총무, F3E 자금
+const orgCdList = require('./orgCdList')
 const targetDataList = new Array(100).fill(null).map(item => {
   const enterYmd = faker.date.recent(60).toISOString().split('T')[0].replace(/-/g, '')
   const birthDay = faker.date.between(new Date(2011, 0, 2), new Date(1990, 0, 2)).toISOString().split('T')[0].replace(/-/g, '')
@@ -146,7 +147,7 @@ async function 채용기본사항등록() {
   const frame = await goToPrgByName('채용기본사항등록')
 
   for (const targetData of targetDataList) {
-    console.log(`Insert name : ${targetData.name}`);
+    console.log(`Insert name : ${targetData.name}, orgCd : ${targetData.orgCd}`);
     await frame.evaluate(() => doAction1('Insert'))
   
     await new Promise(async (res) => {
