@@ -1,0 +1,165 @@
+┌─────────┬─────────────────────────────────────────────────────┬───────┐
+│ (index) │                        name                         │ count │
+├─────────┼─────────────────────────────────────────────────────┼───────┤
+│    0    │                    'JavaScript'                     │  200  │
+│    1    │                      'ReactJS'                      │  146  │
+│    2    │                        'CSS'                        │  120  │
+│    3    │                       'HTML'                        │  118  │
+│    4    │                      'Vue.js'                       │  76   │
+│    5    │                       'Java'                        │  64   │
+│    6    │                      'Node.js'                      │  60   │
+│    7    │                    'TypeScript'                     │  60   │
+│    8    │                        'ES6'                        │  48   │
+│    9    │                        'Git'                        │  47   │
+│   10    │                       'MySQL'                       │  45   │
+│   11    │                      'jQuery'                       │  45   │
+│   12    │                   'React Native'                    │  36   │
+│   13    │                      'Webpack'                      │  32   │
+│   14    │                      'Python'                       │  29   │
+│   15    │                      'Spring'                       │  27   │
+│   16    │                        'PHP'                        │  26   │
+│   17    │                     'Redux.js'                      │  24   │
+│   18    │                     'AngularJS'                     │  21   │
+│   19    │                      'Docker'                       │  21   │
+│   20    │                       'HTML5'                       │  20   │
+│   21    │                     'REST API'                      │  20   │
+│   22    │                      'GraphQL'                      │  13   │
+│   23    │                      'Angular'                      │  12   │
+│   24    │                      'Django'                       │  12   │
+│   25    │                      'Android'                      │  11   │
+│   26    │             'Amazon Web Services(AWS)'              │   9   │
+│   27    │                       'CSS3'                        │   9   │
+│   28    │                      'Next.js'                      │   9   │
+│   29    │                  'React Hooks API'                  │   8   │
+│   30    │                        'iOS'                        │   8   │
+│   31    │                      'GitHub'                       │   7   │
+│   32    │                      'Kotlin'                       │   7   │
+│   33    │                      'MariaDB'                      │   7   │
+│   34    │                       'Babel'                       │   6   │
+│   35    │                     'Bootstrap'                     │   6   │
+│   36    │                        'C#'                         │   6   │
+│   37    │                       'Jest'                        │   6   │
+│   38    │                      'Laravel'                      │   6   │
+│   39    │                       'Linux'                       │   6   │
+│   40    │                    'Sass(SCSS)'                     │   6   │
+│   41    │                       'Swift'                       │   6   │
+│   42    │                      'AWS EC2'                      │   5   │
+│   43    │                        'MVC'                        │   5   │
+│   44    │                      'Nuxt.js'                      │   5   │
+│   45    │                      'Oracle'                       │   5   │
+│   46    │                    'PostgreSQL'                     │   5   │
+│   47    │                       'Redis'                       │   5   │
+│   48    │                   'Ruby on Rails'                   │   5   │
+│   49    │                    'Spring Boot'                    │   5   │
+│   50    │                      'AWS ECS'                      │   4   │
+│   51    │                       'Ajax'                        │   4   │
+│   52    │                   'Apollo Client'                   │   4   │
+│   53    │                        'C++'                        │   4   │
+│   54    │                  'ECMAScript(ES)'                   │   4   │
+│   55    │                        'JSP'                        │   4   │
+│   56    │            'MSSQL(Microsoft SQL Server)'            │   4   │
+│   57    │                    'Material-UI'                    │   4   │
+│   58    │                       'RxJS'                        │   4   │
+│   59    │                         'C'                         │   3   │
+│   60    │                       'D3.js'                       │   3   │
+│   61    │                   'Elasticsearch'                   │   3   │
+│   62    │                     'Electron'                      │   3   │
+│   63    │                     'Firebase'                      │   3   │
+│   64    │                      'Jenkins'                      │   3   │
+│   65    │            'MVVM(Model-View-ViewModel)'             │   3   │
+│   66    │                       'NoSQL'                       │   3   │
+│   67    │                    'Redux-Saga'                     │   3   │
+│   68    │                     'Storybook'                     │   3   │
+│   69    │                 'styled-components'                 │   3   │
+│   70    │                      'ASP.NET'                      │   2   │
+│   71    │                    'AWS Cloud9'                     │   2   │
+│   72    │                    'AWS Lambda'                     │   2   │
+│   73    │                      'AWS S3'                       │   2   │
+│   74    │                'Apache HTTP Server'                 │   2   │
+│   75    │                   'Apache Maven'                    │   2   │
+│   76    │                     'BitBucket'                     │   2   │
+│   77    │                    'CodeIgniter'                    │   2   │
+│   78    │                      'Cypress'                      │   2   │
+│   79    │                       'Dart'                        │   2   │
+│   80    │                      'GitLab'                       │   2   │
+│   81    │                        'Go'                         │   2   │
+│   82    │                      'Gradle'                       │   2   │
+│   83    │                       'JIRA'                        │   2   │
+│   84    │                    'Kubernetes'                     │   2   │
+│   85    │                      'Less.js'                      │   2   │
+│   86    │                   'Microsoft IIS'                   │   2   │
+│   87    │                      'MyBatis'                      │   2   │
+│   88    │                       'Nginx'                       │   2   │
+│   89    │                        'OOP'                        │   2   │
+│   90    │                    'Objective-C'                    │   2   │
+│   91    │                     'RequireJS'                     │   2   │
+│   92    │                      'RxJava'                       │   2   │
+│   93    │                        'SEO'                        │   2   │
+│   94    │                        'SQL'                        │   2   │
+│   95    │                  'Spring Data JPA'                  │   2   │
+│   96    │                      'ThreeJS'                      │   2   │
+│   97    │                       'Vuex'                        │   2   │
+│   98    │                  'Windows Server'                   │   2   │
+│   99    │                     'WordPress'                     │   2   │
+│   100   │                      'Zeplin'                       │   2   │
+│   101   │                      'flutter'                      │   2   │
+│   102   │                       '.NET'                        │   1   │
+│   103   │                    'AWS AppSync'                    │   1   │
+│   104   │                  'AWS CloudFront'                   │   1   │
+│   105   │                      'AWS EKS'                      │   1   │
+│   106   │                  'AWS ElastiCache'                  │   1   │
+│   107   │               'AWS Elastic Beanstalk'               │   1   │
+│   108   │                      'AWS RDS'                      │   1   │
+│   109   │                 'AWS WAF & Shield'                  │   1   │
+│   110   │                   'ActionScript'                    │   1   │
+│   111   │                  'Adobe InDesign'                   │   1   │
+│   112   │                  'Adobe Photoshop'                  │   1   │
+│   113   │                   'Apache JMeter'                   │   1   │
+│   114   │                       'Azure'                       │   1   │
+│   115   │                   'Azure Emotion'                   │   1   │
+│   116   │                    'Backbone.js'                    │   1   │
+│   117   │                       'CI/CD'                       │   1   │
+│   118   │                      'Canvas'                       │   1   │
+│   119   │                     'Chart.js'                      │   1   │
+│   120   │                'Clean Architecture'                 │   1   │
+│   121   │           'DBA(Database administration)'            │   1   │
+│   122   │            'DRF(Django REST framework)'             │   1   │
+│   123   │                      'Dagger2'                      │   1   │
+│   124   │                'Data visualization'                 │   1   │
+│   125   │                     'Database'                      │   1   │
+│   126   │                   'Deep Learning'                   │   1   │
+│   127   │                        'ES5'                        │   1   │
+│   128   │                  'Embedded System'                  │   1   │
+│   129   │                      'EmberJS'                      │   1   │
+│   130   │                     'ExpressJS'                     │   1   │
+│   131   │            'GCP(Google Cloud Platform)'             │   1   │
+│   132   │        'GIS(Geographic Information System)'         │   1   │
+│   133   │                     'GeoServer'                     │   1   │
+│   134   │                 'Google Analytics'                  │   1   │
+│   135   │                 'Google App Engine'                 │   1   │
+│   136   │               'Google Cloud Pub/Sub'                │   1   │
+│   137   │ 'Google Kubernetes applications on GCP Marketplace' │   1   │
+│   138   │                      'Haskell'                      │   1   │
+│   139   │                       'Ionic'                       │   1   │
+│   140   │                   'Linux kernel'                    │   1   │
+│   141   │             'Microservice Architecture'             │   1   │
+│   142   │                       'Mocha'                       │   1   │
+│   143   │                      'MongoDB'                      │   1   │
+│   144   │                        'NLP'                        │   1   │
+│   145   │                      'NestJS'                       │   1   │
+│   146   │                      'OpenMP'                       │   1   │
+│   147   │                      'PostCSS'                      │   1   │
+│   148   │                     'Querydsl'                      │   1   │
+│   149   │                    'React Admin'                    │   1   │
+│   150   │                       'Ruby'                        │   1   │
+│   151   │                       'Rust'                        │   1   │
+│   152   │                      'RxSwift'                      │   1   │
+│   153   │                   'Tailwind CSS'                    │   1   │
+│   154   │                    'Vanilla JS'                     │   1   │
+│   155   │                    'Vuetify.js'                     │   1   │
+│   156   │                        'WPF'                        │   1   │
+│   157   │                       'WebGL'                       │   1   │
+│   158   │                      'WebRTC'                       │   1   │
+│   159   │                     'WebSocket'                     │   1   │
+│   160   │                      'web3.js'                      │   1   │
+└─────────┴─────────────────────────────────────────────────────┴───────┘

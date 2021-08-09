@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Async Dislogs Example</title>
+    <script src="//cdn.jsdelivr.net/bluebird/3.0.5/bluebird.js"></script>
+    <style type="text/css">
+      #dialog {
+        width: 200px;
+        margin: auto;
+        border: thin solid black;
+        padding: 10px;
+        background: lightgreen;
+      }
+
+      .hidden {
+        display: none;
+      }
+    </style>
+    <script>
+      function clockTick() {
+        time.innerHTML = '' + new Date()
+      }
+      document.addEventListener('DOMContentLoaded', () => {
+        var time = document.getElementById('time-stamp')
+        clockTick()
+        setInterval(clockTick, 1000)
+      })
+
+      var noop = function () {
+        return this
+      }
+
+      function UserCanceledError() {
+        this.name = 'UserCanceledError'
+        this.message = 'User canceled dialog'
+      }
+      UserCanceledError.prototype = Object.create(Error.prototype)
+
+      function Dialog() {
+        this.setCallbacks(noop, noop)
+      }
+      Dialog.prototype.setCallbacks = function (okCallback, cancelCallback) {
+        this._okCallback = okCallback
+        this._cancelCallback = cancelCallback
+        return this
+      }
+      Dialog.prototype.waitForUser = function () {
+        var _this = this
+        return new Promise(function (resolve, reject) {
+          _this.setCallbacks(resolve, reject)
+        })
+      }
+      Dialog.prototype.cancel = function () {
+        this._cancelCallback(new UserCanceledError())
+      }
+      Dialog.prototype.show = noop
+      Dialog.prototype.hide = noop
+
+      function PromptDialog() {
+        Dialog.call(this)
+        this.el = document.getElementById('dialog')
+        this.inputEl = this.el.querySelector('input')
+        this.messageEl = this.el.querySelector('.message')
+        this.okButton = this.el.querySelector('button.ok')
+        this.cancelButton = this.el.querySelector('button.cancel')
+        this.attachDomEvents()
+      }
+      PromptDialog.prototype = Object.create(Dialog.prototype)
+      PromptDialog.prototype.attachDomEvents = function () {
+        var _this = this
+        this.okButton.addEventListener('click', function () {
+          _this._okCallback(_this.inputEl.value)
+        })
+        this.cancelButton.addEventListener('click', function () {
+          _this.cancel()
+        })
+      }
+      PromptDialog.prototype.show = function (message) {
+        this.messageEl.innerHTML = '' + message
+        this.el.className = ''
+        return this
+      }
+      PromptDialog.prototype.hide = function () {
+        this.el.className = 'hidden'
+        return this
+      }
+
+      document.addEventListener('DOMContentLoaded', function () {
+        var button = document.getElementById('action')
+        var output = document.getElementById('prompt')
+        var prompt = new PromptDialog()
+        button.addEventListener('click', function () {
+          const timeout = setTimeout(function () {
+            prompt.cancel()
+          }, 5000)
+
+          prompt
+            .show('What is your name?')
+            .waitForUser()
+            .then(function (name) {
+              output.innerHTML = '' + name
+            })
+            .catch(UserCanceledError, function () {
+              output.innerHTML = '¯\\_(ツ)_/¯'
+            })
+            .catch(function (e) {
+              console.log('Unknown error', e)
+            })
+            .finally(function () {
+              prompt.hide()
+              clearTimeout(timeout)
+            })
+        })
+      })
+    </script>
+  </head>
+
+  <body>
+    <p>
+      The current time is
+      <span id="time-stamp"></span>
+      .
+    </p>
+    <p>
+      Your name is
+      <span id="prompt"></span>
+      .
+    </p>
+    <button id="action">Set Name</button>
+    <div id="dialog" class="hidden">
+      <div class="message">foobar</div>
+      <input type="text" />
+      <div>
+        <button class="ok">Ok</button>
+        <button class="cancel">Cancel</button>
+      </div>
+    </div>
+  </body>
+</html>

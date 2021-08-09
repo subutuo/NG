@@ -1,0 +1,10 @@
+H20230	군별코드	E302	5	의경	Auxiliary Policeman		8	Y			
+H20230	군별코드	E302	8	교도대	Prison Guard			N			
+H20230	군별코드	E302	11	육군	Army		1	Y			
+H20230	군별코드	E302	12	해군	Navy		2	Y			
+H20230	군별코드	E302	13	공군	Air Force		3	Y			
+H20230	군별코드	E302	14	해병대	Marine		4	Y			
+H20230	군별코드	E302	15	특전사	Special Forces		5	Y			
+H20230	군별코드	E302	21	전경	Combat Police		6	Y			
+H20230	군별코드	E302	22	해양경찰	Marine Police		7	Y			
+H20230	군별코드	E302	31	기타	Etc		9	Y			

@@ -19,11 +19,16 @@
     "nodemailer": "^6.6.0",
     "oracledb": "^5.1.0",
     "puppeteer": "^8.0.0",
+    "puppeteer-extra": "^3.1.18",
+    "puppeteer-extra-plugin-stealth": "^2.7.8",
     "replace-in-file": "^6.2.0",
+    "sql-formatter": "^4.0.2",
+    "typescript": "^4.2.4",
     "util": "^0.12.3",
     "vizion": "^2.2.1"
   },
   "scripts": {
-    "test": "mocha 12.mochaTest/test/init.js --recursive 12.mochaTest/test --timeout 60000"
+    "test": "mocha 12.mochaTest/test/init.js --recursive 12.mochaTest/test --timeout 60000",
+    "build": "tsc"
   }
 }

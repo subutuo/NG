@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <script type="text/javascript">
+    var gPRow = ''
+    var pGubun = ''
+    
+    var jobLst1 = null
+    var jobLst2 = null
+    var jobLst3 = null
+    var jobLstMax = 0
+    
+    // 사외경력
+    var careerLst1 = null
+    var careerLst2 = null
+    var careerLst3 = null
+    var careerLstMax = 0
+    
+    //사내경력
+    var experienceLst1 = null
+    var experienceLst2 = null
+    var experienceLst3 = null
+    var experienceLstMax = 0
+    
+    // 평가
+    var appraisalLst1 = null
+    var appraisalLst2 = null
+    var appraisalLst3 = null
+    var appraisalLstMax = 0
+    /* 
+    $(function() {
+      new Array(3).fill(null).forEach(function() {
+        var $template = $("#template").clone()
+        $template.removeAttr('style');
+        $(".container").append($template);
+      })
+    }); */
+    
+    $(function () {
+      //조직원 조회에서 비교대상 버튼 클릭시 여기로 이동됨
+      //쿠기 정보 확인 하여 있으면 자동으로 데이터 조회
+      if (getCookie('CompareEmpNgN1')) {
+        $('#sabun1').val(getCookie('CompareEmpNgS1'))
+        $('#name1').val(getCookie('CompareEmpNgN1'))
+        searchData(getCookie('CompareEmpNgS1'))
+      }
+      if (getCookie('CompareEmpNgN2')) {
+        $('#sabun2').val(getCookie('CompareEmpNgS2'))
+        $('#name2').val(getCookie('CompareEmpNgN2'))
+        searchData(getCookie('CompareEmpNgS2'))
+      }
+      if (getCookie('CompareEmpNgN3')) {
+        $('#sabun3').val(getCookie('CompareEmpNgS3'))
+        $('#name3').val(getCookie('CompareEmpNgN3'))
+        searchData(getCookie('CompareEmpNgS3'))
+      }
+      /*
+       //쿠기정보 초기화
+       setCookie("CompareEmpNgN1","",1000);
+         setCookie("CompareEmpNgS1","",1000);
+         setCookie("CompareEmpNgN2","",1000);
+         setCookie("CompareEmpNgS2","",1000);
+         setCookie("CompareEmpNgN3","",1000);
+         setCookie("CompareEmpNgS3","",1000);
+    */
+    })
+    
+    function searchData(sabun) {
+      // 데이터 조회
+      var data = ajaxCall('${ctx}/CompareEmpNg.do?cmd=getCompareEmpNgPeopleMap', '&sabun=' + sabun, false)
+      if (!data || !data.DATA) {
+        return
+      }
+      
+      var $template = $("#template").clone();
+        $template.removeAttr('style');
+        
+      $template.find('#orgNm').html(data.DATA.orgNm)
+      $template.find('#tName').html(data.DATA.name)
+      $template.find('#jobNm').html(data.DATA.jobNm)
+      $template.find('#jikweeNm').html(data.DATA.jikweeNm)
+      $template.find('#jikchakNm').html(data.DATA.jikchakNm)
+      $template.find('#jikgubNm').html(data.DATA.jikgubNm)
+      $template.find('#empYmd').html(data.DATA.empYmd)
+      $template.find('#birYmd').html(data.DATA.birYmd)
+      $template.find('#acaNm').html(data.DATA.acaNm)
+      $template.find('#acaSchNm').html(data.DATA.acaSchNm)
+      $template.find('#acamajNm').html(data.DATA.acamajNm)
+      $template.find('#appResult').html(data.DATA.appResult)
+      $template.find('#achievePoint').html(data.DATA.achievePoint)
+      $template.find('#lang').html(data.DATA.lang)
+      $template.find('#prize').html(data.DATA.prize)
+      $template.find('#punish').html(data.DATA.punish)
+      $template.find('#image').attr('src', '${ctx}/EmpPhotoOut.do?enterCd=${ssnEnterCd}&searchKeyword=' + sabun)
+    
+      //학력
+      var jobLst = ajaxCall('${ctx}/CompareEmpNg.do?cmd=getCompareEmpNgJobList', '&sabun=' + sabun, false)
+      if (jobLst.DATA && jobLst.DATA.length) {
+        jobLst.DATA.forEach(function(data) {
+          $template.find('#acaTb').append(data.acaSYm + ' ~ ' + data.acaEYm + '&nbsp;&nbsp;' + data.acaSchNm + '&nbsp;&nbsp;' + data.acamajNm)  
+        });
+      }
+    
+      //자격사항
+      var experienceLst = ajaxCall('${ctx}/CompareEmpNg.do?cmd=getExperienceList', '&sabun=' + sabun, false)
+      if (experienceLst.DATA && experienceLst.DATA.length) {
+        experienceLst.DATA.forEach(function (data) {
+            $('#lcsTb').append(data.licSYmd + '&nbsp;&nbsp;' + data.licenseNm)
+        });
+      }
+    
+      //어학사항
+      var careerLst = ajaxCall('${ctx}/CompareEmpNg.do?cmd=getCompareEmpNgCareerList', '&sabun=' + sabun, false)
+      if (careerLst.DATA && careerLst.DATA.length) {
+        careerLst.DATA.forEach(function(data) {
+        $('#frgTb').append(data.applyYmd + '&nbsp;&nbsp;' + data.foreignCd + '&nbsp;&nbsp;' + data.fTestCd + '&nbsp;&nbsp;' + data.testPoint + '&nbsp;&nbsp;' + data.passScores)
+        });
+      }
+    
+      //평가사항
+      var papLst = ajaxCall('${ctx}/CompareEmpNg.do?cmd=getPapList', '&sabun=' + sabun, false)
+      if (papLst.DATA && papLst.DATA.length) {
+      papLst.DATA.forEach(function(data) {
+        $('#papTb').append(data.papNm + '&nbsp;&nbsp;' + data.finalGrade)
+      });
+      }
+    
+      //포상사항
+      var appraisalLst = ajaxCall('${ctx}/CompareEmpNg.do?cmd=getAppraisalList', '&sabun=' + sabun, false)
+      if (appraisalLst.DATA && appraisalLst.DATA.length) {
+        appraisalLst.DATA.forEach(function(data) {
+            $('#przTb').append(data.prizeYmd + '&nbsp;&nbsp;' + data.prizeNm + '&nbsp;&nbsp;' + data.prizeMemo + '<dl></dl>')
+        });
+      }
+      
+      $(".container").append($template);
+    }
+    
+    // 사원 팝업
+    function showEmpPopup(i) {
+      if (!isPopup()) {
+        return
+      }
+      gPRow = ''
+      pGubun = 'empPopup' + i
+      order = i
+    
+      openPopup('/Popup.do?cmd=employeePopup&authPg=R', '', '840', '520')
+    }
+    
+    function getReturnValue(returnValue) {
+      var rv = $.parseJSON('{' + returnValue + '}')
+    
+      if (pGubun == 'empPopup1') {
+        $('#sabun1').val(rv['sabun'])
+        $('#name1').val(rv['name'])
+        $('#tNmae1').html(rv['name'])
+    
+        //데이터 조회
+        searchData(rv['sabun'])
+      } else if (pGubun == 'empPopup2') {
+        $('#sabun2').val(rv['sabun'])
+        $('#name2').val(rv['name'])
+        $('#tNmae2').html(rv['name'])
+    
+        //데이터 조회
+        searchData(rv['sabun'])
+      } else if (pGubun == 'empPopup3') {
+        $('#sabun3').val(rv['sabun'])
+        $('#name3').val(rv['name'])
+        $('#tNmae3').html(rv['name'])
+    
+        //데이터 조회
+        searchData(rv['sabun'])
+      }
+    }
+    
+    function searchKeyword() {
+      if (!isPopup()) {
+        return
+      }
+      gPRow = ''
+      pGubun = 'keywordPopup'
+    
+      openPopup('/Popup.do?cmd=keywordPopup&authPg=R', '', '1300', '900')
+    }
+    
+    function print() {
+      html2canvas(document.querySelector('#main_container')).then(function (canvas) {
+        var pdf = new jsPDF()
+        var imgData = canvas.toDataURL('image/png', 1.0)
+        pdf.addImage(imgData, 'PNG', 0, 0)
+        pdf.save('download.pdf')
+    
+        var popWin = window.open('about:blank', '_blank', 'width=1000, height=1000')
+        popWin.document.body.replaceWith(canvas)
+      })
+    }
+  </script>
+  
+  
+      <style>
+        .container {
+          display: flex;
+          flex-flow: row wrap;
+          align-items: flex-start;
+          justify-content: center;
+          height: 100%;
+        }
+        .card {
+          display: flex;
+          flex-direction: column;
+          border: 1px solid #d6d9dd;
+          border-radius: 8px;
+          margin: 10px 5px;
+          flex-basis: 480px;
+          min-height: 600px;
+          box-shadow: 3px 3px 5px #dfe0e3;
+          padding: 20px;
+        }
+  
+        .card__header {
+          display: flex;
+          flex-direction: row;
+        }
+  
+        .card-image {
+          flex: none;
+          width: 110px;
+          height: 150px;
+        }
+  
+        .card-emp {
+          margin-left: 30px;
+        }
+  
+        .card-org {
+          font-size: 15px;
+          font-weight: 700;
+          color: #3AB7C6;
+          border: 1px solid #3AB7C6;
+          border-radius: 16px;
+          padding: 4px 16px;
+          display: inline-block;
+        }
+  
+        .card-name {
+          font-size: 32px;
+          font-weight: 700;
+          color: #5a5e61;
+        }
+  
+        .table--label {
+          padding: 0 5px;
+          font-weight: bold;
+          color: #3AB7C6;
+          white-space: nowrap;
+        }
+  
+        .table--content {
+          padding: 0 5px;
+        }
+  
+        .section {
+          margin: 0;
+          padding: 0;
+        }
+        .section__section-title {
+          font-size: 14px;
+          color: #3AB7C6;
+          font-weight: bold;
+          padding-bottom: 4px;
+          border-bottom: 2px solid #ced2d6;
+          margin: 0;
+          margin-top: 15px;
+        }
+  
+        .section__section-list {
+          list-style: none;
+          font-weight: bold;
+          padding-left: 0;
+        }
+  
+      </style>
+  </head>
+  <body class="hidden" onload="">
+  <div class="wrapper" style="overflow:hidden;">
+  <form id="searchFrm" name="searchFrm">
+  <input type="hidden" id="srchSeq" name="srchSeq" value="" />
+      <div class="sheet_search outer">
+        <div>
+          <table>
+            <tr>
+              <td>
+                  <b><tit:txt mid='112849' mdef='비교대상'/></b> :
+                  <input id="name1" name="name1" type="text" class="text  readonly" readonly/>
+                              <input id="sabun1" name="sabun1" type="hidden" class="text"/>
+                              <a href="javascript:showEmpPopup('1');" class="button6"><img src="/common/${theme}/images/btn_search2.gif"/></a>
+                              <a href="javascript:clearCode('name1')" class="button7"><img src="/common/${theme}/images/icon_undo.gif"/></a>
+              </td>
+              <td>
+                              <input id="name2" name="name2" type="text" class="text  readonly" readonly/>
+                              <input id="sabun2" name="sabun2" type="hidden" class="text"/>
+                              <a href="javascript:showEmpPopup('2');" class="button6"><img src="/common/${theme}/images/btn_search2.gif"/></a>
+                              <a href="javascript:clearCode('name2')" class="button7"><img src="/common/${theme}/images/icon_undo.gif"/></a>
+                          </td>
+                          <td>
+                              <input id="name3" name="name3" type="text" class="text  readonly" readonly/>
+                              <input id="sabun3" name="sabun3" type="hidden" class="text"/>
+                              <a href="javascript:showEmpPopup('3');" class="button6"><img src="/common/${theme}/images/btn_search2.gif"/></a>
+                              <a href="javascript:clearCode('name3')" class="button7"><img src="/common/${theme}/images/icon_undo.gif"/></a>
+                          </td>
+                           <td>
+                             <!-- <a href="javascript: goMenu()"     class="basic authR"><tit:txt mid='112850' mdef='비교'/></a>-->
+                             <a href="javascript: print()"     class="basic authR"><tit:txt mid='printV1' mdef=' 출 력 '/></a>
+                          </td>
+            </tr>
+          </table>
+        </div>
+      </div>
+  
+  <div class="container"></div>
+      </form>
+  
+  </div>
+  
+  
+    <div id="template" class="card" style="display: none;">
+      <div class="card__header">
+        <img id="image" class="card-image" src="/common/images/common/img_photo.gif" alt="직원사진" />
+        <div class="card-emp">
+          <div id="orgNm" class="card-org">대표이사</div>
+          <div id="tName" class="card-name">조만호 <span id="tJikGub"></span></div>
+          <table>
+            <tr>
+              <td class="table--label">생년월일</td>
+              <td id="birYmd" class="table--content">1983/08/31 (37)</td>
+            </tr>
+            <tr>
+              <td class="table--label">입사일</td>
+              <td id="empYmd" class="table--content">2004/04/01 (그룹 : 2004/04/01)</td>
+            </tr>
+            <tr>
+              <td class="table--label">직위</td>
+              <td id="jikweeNm" class="table--content">대표이사</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+      <section class="section">
+        <h5 class="section__section-title">학력사항</h5>
+        <ul id="acaTb" class="section__section-list"></ul>
+      </section>
+      <section class="section">
+        <h5 class="section__section-title">자격증</h5>
+        <ul id="lcsTb" class="section__section-list"></ul>
+      </section>
+      <section class="section">
+        <h5 class="section__section-title">외국어</h5>
+        <ul id="frgTb" class="section__section-list"></ul>
+      </section>
+      <section class="section">
+        <h5 class="section__section-title">평가사항</h5>
+        <ul id="papTb" class="section__section-list"></ul>
+      </section>
+      <section class="section">
+        <h5 class="section__section-title">포상사항</h5>
+        <ul id="przTb" class="section__section-list"></ul>
+      </section>
+    </div>
+  </div>
+</body>
+</html>

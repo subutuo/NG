@@ -1,0 +1,1073 @@
+H20030	Korean Title	E101	A01	사장	President		0	Y			
+H20030	Korean Title	E101	A02	부사장	Vice President		0	Y			
+H20030	Korean Title	E101	A03	전무	Jeongmu		0	Y			
+H20030	Korean Title	E101	A04	상무	Sangmu		0	Y			
+H20030	Korean Title	E101	A05	이사	Isa		0	Y			
+H20030	Korean Title	E101	A06	부장	Bujang		0	Y			
+H20030	Korean Title	E101	A07	차장	Chajang		0	Y			
+H20030	Korean Title	E101	A08	과장	Gwajang		0	Y			
+H20030	Korean Title	E101	A09	대리	Daeri		0	Y			
+H20030	Korean Title	E101	A10	사원	Sawon	Staff	0	Y			
+H20030	Korean Title	E101	A11	5급사원	Grade 5 Salaried Employee			Y			
+H20030	Korean Title	E101	A12	계약직	Contractor			Y			
+H20030	Korean Title	E101	A13	운전	Driver			Y			
+H20030	Korean Title	E101	A14	인턴	Intern			Y			
+H20030	Korean Title	E101	B01	기능직사원	Hourly Employee			Y			
+H20030	Korean Title	E101	B02	기능 1급	Grade 1 Hourly Employee			Y			
+H20030	Korean Title	E101	B03	기능 2급	Grade 2 Hourly Employee			Y			
+H20030	Korean Title	E101	B04	기능 3급	Grade 3 Hourly Employee			Y			
+H20030	Korean Title	E101	B05	기능 4급	Grade 4 Hourly Employee			Y			
+H20030	Korean Title	E101	C01	NA	NA			Y			
+H20030	Korean Title	E101	Z01	4급사원	Grade 4 Salaried Employee	이행용		N			
+H20030	Korean Title	E101	Z02	인턴사원	Intern	이행용		N			
+H20030	Korean Title	E101	Z03	계약직	Contractor	이행용		N			
+H20030	Korean Title	E101	Z04	이사보	Assistant Director	이행용		N			
+H20030	Korean Title	E101	Z05	고용원	Employee	이행용		N			
+H20030	Korean Title	E101	Z06	3급사원	Grade 3 Salaried Employee	이행용		N			
+H20030	Korean Title	E101	Z07	부장대우	Deputy General Manager 	이행용		N			
+H20030	Korean Title	E101	Z08	선임연구원	Senior Researcher	이행용		N			
+H20030	Korean Title	E101	Z09	연구조원	Research Assistant	이행용		N			
+H20030	Korean Title	E101	Z10	차장대우	Deputy Manager	이행용		N			
+H20030	Korean Title	E101	Z11	조장	Team Leader	이행용		N			
+H20020	Position(직책)	E102	1	Technologist	Technologist		1	Y			
+H20020	Position(직책)	E102	2	Human Resources Specialist	Human Resources Specialist		2	Y			
+H20020	Position(직책)	E102	3	Purchasing Agent	Purchasing Agent		3	Y			
+H20020	Position(직책)	E102	4	Internal Audit	Internal Audit		4	Y			
+H20020	Position(직책)	E102	5	Regional General Counsel	Regional General Counsel		5	Y			
+H20020	Position(직책)	E102	6	MaintenanceMachinery Maintenance	MaintenanceMachinery Maintenance		6	Y	Maintenance		
+H20020	Position(직책)	E102	7	FMLocal	FMLocal		7	Y	FM		
+H20020	Position(직책)	E102	8	SVP President Novelis Asia	SVP President Novelis Asia		8	Y			
+H20020	Position(직책)	E102	9	CM1Operator	CM1Operator		9	Y	CM1		
+H20020	Position(직책)	E102	10	Sales Representative	Sales Representative		10	Y			
+H20020	Position(직책)	E102	11	IT Business Systems Analyst	IT Business Systems Analyst		11	Y			
+H20020	Position(직책)	E102	12	FMFork truck Driving	FMFork truck Driving		12	Y	FM		
+H20020	Position(직책)	E102	13	CFOSenior Manager	CFOSenior Manager		13	Y			
+H20020	Position(직책)	E102	14	Financial Planning Analysis MangerTeam Head	Financial Planning Analysis MangerTeam Head		14	Y			
+H20020	Position(직책)	E102	15	DC1Shop Floor ManagementForeman	DC1Shop Floor ManagementForeman		15	Y	DC1		
+H20020	Position(직책)	E102	16	DC1MF/CRANE	DC1MF/CRANE		16	Y	DC1		
+H20020	Position(직책)	E102	17	Slitter3Main Operator	Slitter3Main Operator		17	Y	Slitter3		
+H20020	Position(직책)	E102	18	ScalperFork truck Driving	ScalperFork truck Driving		18	Y	Scalper		
+H20020	Position(직책)	E102	19	Coating LineShop Floor ManagementForeman	Coating LineShop Floor ManagementForeman		19	Y	Coating Line		
+H20020	Position(직책)	E102	20	HMShop Floor ManagementForeman	HMShop Floor ManagementForeman		20	Y	HM		
+H20020	Position(직책)	E102	21	Soaking F'ceSoaking F'ce Operator	Soaking F'ceSoaking F'ce Operator		21	Y	Soaking F'ce		
+H20020	Position(직책)	E102	22	CraneCrain maintenanceForeman	CraneCrain maintenanceForeman		22	Y	Crane		
+H20020	Position(직책)	E102	23	HR ManagerTeam Head	HR ManagerTeam Head		23	Y			
+H20020	Position(직책)	E102	24	Process ManagerTeam Leader	Process ManagerTeam Leader		24	Y			
+H20020	Position(직책)	E102	25	Labor Relations Leader	Labor Relations Leader		25	Y			
+H20020	Position(직책)	E102	26	Whole plantPlant Safety Management	Whole plantPlant Safety Management		26	Y	Whole plant		
+H20020	Position(직책)	E102	27	Blueprint	Blueprint		27	Y			
+H20020	Position(직책)	E102	28	DC1스니프	DC1 Sniff		28	Y	DC1		
+H20020	Position(직책)	E102	29	Coating LineLab	Coating LineLab		29	Y	Coating Line		
+H20020	Position(직책)	E102	30	Safety Specialist	Safety Specialist		30	Y			
+H20020	Position(직책)	E102	31	ScalperShift Leader	ScalperShift Leader		31	Y	Scalper		
+H20020	Position(직책)	E102	32	PusherMain Operator	PusherMain Operator		32	Y			
+H20020	Position(직책)	E102	33	PDMPDM	PDMPDM		33	Y			
+H20020	Position(직책)	E102	34	Quality Management	Quality Management		34	Y			
+H20020	Position(직책)	E102	35	Process Inspection	Process Inspection		35	Y			
+H20020	Position(직책)	E102	36	TL 2Main Operator	TL 2Main Operator		36	Y	TL 2		
+H20020	Position(직책)	E102	37	TL 1Sub Operator	TL 1Sub Operator		37	Y	TL 1		
+H20020	Position(직책)	E102	38	ScalperScalper Operator	ScalperScalper Operator		38	Y	Scalper		
+H20020	Position(직책)	E102	39	DC2IN-LINE	DC2IN-LINE		39	Y	DC2		
+H20020	Position(직책)	E102	40	검사Inspection	Inspection		40	Y			
+H20020	Position(직책)	E102	41	Civil engineering and construction	Civil engineering and construction		41	Y			
+H20020	Position(직책)	E102	42	DC2CAST	DC2CAST		42	Y	DC2		
+H20020	Position(직책)	E102	43	MF2,4Charging Operator	MF2,4Charging Operator		43	Y	MF2,4		
+H20020	Position(직책)	E102	44	Inventory	Inventory		44	Y			
+H20020	Position(직책)	E102	45	RG#4Operator	RG#4Operator		45	Y	RG		
+H20020	Position(직책)	E102	46	CoolantCoolant	CoolantCoolant		46	Y			
+H20020	Position(직책)	E102	47	TLShift Leader	TLShift Leader		47	Y	TL		
+H20020	Position(직책)	E102	48	Computer systemDBA & System Operation	Computer systemDBA & System Operation		48	Y	Computer system		
+H20020	Position(직책)	E102	49	IT Infrastructure ManagerTeam Head	IT Infrastructure ManagerTeam Head		49	Y			
+H20020	Position(직책)	E102	50	HMMain Operator	HMMain Operator		50	Y	HM		
+H20020	Position(직책)	E102	51	MaintenanceMaintenanceForeman	MaintenanceMaintenanceForeman		51	Y	Maintenance		
+H20020	Position(직책)	E102	52	Supply Chain ManagerTeam Head	Supply Chain ManagerTeam Head		52	Y			
+H20020	Position(직책)	E102	53	ShippingShop Floor ManagementForeman	ShippingShop Floor ManagementForeman		53	Y			
+H20020	Position(직책)	E102	54	Training Representative	Training Representative		54	Y			
+H20020	Position(직책)	E102	55	Treasurer.Team Head	Treasurer.Team Head		55	Y			
+H20020	Position(직책)	E102	56	Plant ManagerPlant Manager	Plant ManagerPlant Manager		56	Y			
+H20020	Position(직책)	E102	57	Construction LeaderTeam Leader	Construction LeaderTeam Leader		57	Y			
+H20020	Position(직책)	E102	58	Accounting & Tax ManagerTeam Head	Accounting & Tax ManagerTeam Head		58	Y			
+H20020	Position(직책)	E102	59	IT System Analyst	IT System Analyst		59	Y			
+H20020	Position(직책)	E102	60	Annealing F'ceShop Floor ManagementForeman	Annealing F'ceShop Floor ManagementForeman		60	Y	Annealing F'ce		
+H20020	Position(직책)	E102	61	UtilitiesDesign	UtilitiesDesign		61	Y	Utilities		
+H20020	Position(직책)	E102	62	Financial Planning & Analysis Specialist	Financial Planning & Analysis Specialist		62	Y			
+H20020	Position(직책)	E102	63	Labor Relations Spc	Labor Relations Spc		63	Y			
+H20020	Position(직책)	E102	64	CraneCrain maintenance	CraneCrain maintenance		64	Y	Crane		
+H20020	Position(직책)	E102	65	Melting F'ceMF1 Operator	Melting F'ceMF1 Operator		65	Y	Melting F'ce		
+H20020	Position(직책)	E102	66	Executive Assitant	Executive Assitant		66	Y			
+H20020	Position(직책)	E102	67	Treasury Specialist	Treasury Specialist		67	Y			
+H20020	Position(직책)	E102	68	CM2Entry Operator	CM2Entry Operator		68	Y	CM2		
+H20020	Position(직책)	E102	69	Environmental equipment탈지&Coolant폐수처리	Environmental equipment removal of grease &Coolant Wastewater disposal		69	Y	Environmental equipment		
+H20020	Position(직책)	E102	70	Recycle#2Operator	Recycle#2Operator		70	Y	Recycle		
+H20020	Position(직책)	E102	71	Mold MtcOperator	Mold MtcOperator		71	Y			
+H20020	Position(직책)	E102	72	CM2Sub Operator	CM2Sub Operator		72	Y	CM2		
+H20020	Position(직책)	E102	73	Melting F'ceMF2 Operator	Melting F'ceMF2 Operator		73	Y	Melting F'ce		
+H20020	Position(직책)	E102	74	Coordinator	Coordinator		74	Y			
+H20020	Position(직책)	E102	75	DC2Main Operator	DC2Main Operator		75	Y	DC2		
+H20020	Position(직책)	E102	76	Environmental equipmentWaste water treatment facility	Environmental equipmentWaste water treatment facility		76	Y	Environmental equipment		
+H20020	Position(직책)	E102	77	Environmental equipmentShop Floor ManagementForeman	Environmental equipmentShop Floor ManagementForeman		77	Y	Environmental equipment		
+H20020	Position(직책)	E102	78	CM1Operate Crane	CM1Operate Crane		78	Y	CM1		
+H20020	Position(직책)	E102	79	Mechanical Engineering LeaderTeam Leader	Mechanical Engineering LeaderTeam Leader		79	Y			
+H20020	Position(직책)	E102	80	CM1Fork truck Driving	CM1Fork truck Driving		80	Y	CM1		
+H20020	Position(직책)	E102	81	CM2CPU Operator	CM2CPU Operator		81	Y	CM2		
+H20020	Position(직책)	E102	82	RG#1Operator	RG#1Operator		82	Y	RG		
+H20020	Position(직책)	E102	83	DC1HF	DC1HF		83	Y	DC1		
+H20020	Position(직책)	E102	84	Automation LeaderTeam Leader	Automation LeaderTeam Leader		84	Y			
+H20020	Position(직책)	E102	85	Logistics Specialist	Logistics Specialist		85	Y			
+H20020	Position(직책)	E102	86	Shift Leader	Shift Leader		86	Y			
+H20020	Position(직책)	E102	87	UtilitiesPower	UtilitiesPower		87	Y	Utilities		
+H20020	Position(직책)	E102	88	Risk Management Specialist	Risk Management Specialist		88	Y			
+H20020	Position(직책)	E102	89	CM1Shop Floor ManagementForeman	CM1Shop Floor ManagementForeman		89	Y	CM1		
+H20020	Position(직책)	E102	90	Operator	Operator		90	Y			
+H20020	Position(직책)	E102	91	Pusher&ScalperForeman	Pusher&ScalperForeman		91	Y			
+H20020	Position(직책)	E102	92	SLShift Leader	SLShift Leader		92	Y	SL		
+H20020	Position(직책)	E102	93	CM1Shift Leader	CM1Shift Leader		93	Y	CM1		
+H20020	Position(직책)	E102	94	CM2Shift Leader	CM2Shift Leader		94	Y	CM2		
+H20020	Position(직책)	E102	95	Environmental equipmentOperating waste water treatment equipment	Environmental equipmentOperating waste water treatment equipment		95	Y	Environmental equipment		
+H20020	Position(직책)	E102	96	Shop Floor ManagementForeman	Shop Floor ManagementForeman		96	Y			
+H20020	Position(직책)	E102	97	보일러Boiler	Boiler		97	Y			
+H20020	Position(직책)	E102	98	Operations Analyst	Operations Analyst		98	Y			
+H20020	Position(직책)	E102	99	Inventory managementSubsidiary materials	Inventory managementSubsidiary materials		99	Y			
+H20020	Position(직책)	E102	100	Credit Specialist	Credit Specialist		100	Y			
+H20020	Position(직책)	E102	101	CM1Main Operator	CM1Main Operator		101	Y	CM1		
+H20020	Position(직책)	E102	102	Non-metal Procurement & Logistics ManagerTeam Head	Non-metal Procurement & Logistics ManagerTeam Head		102	Y			
+H20020	Position(직책)	E102	103	Project LeaderTeam Leader	Project LeaderTeam Leader		103	Y			
+H20020	Position(직책)	E102	104	Supply Chain Director	Supply Chain Director		104	Y			
+H20020	Position(직책)	E102	105	RGShop Floor ManagementForeman	RGShop Floor ManagementForeman		105	Y	RG		
+H20020	Position(직책)	E102	106	FabricationForeman	FabricationForeman		106	Y			
+H20020	Position(직책)	E102	107	Elect Engineer	Elect Engineer		107	Y			
+H20020	Position(직책)	E102	108	Spool회수Spool회수	Spool Collect Spool Collect		108	Y			
+H20020	Position(직책)	E102	109	Melting & Casting equipmentElectronic Maintenance	Melting & Casting equipmentElectronic Maintenance		109	Y	Melting & Casting equipment		
+H20020	Position(직책)	E102	110	Slitter3Sub Operator	Slitter3Sub Operator		110	Y	Slitter3		
+H20020	Position(직책)	E102	111	Admin.Analyst	Admin.Analyst		111	Y			
+H20020	Position(직책)	E102	112	Production Control Specialist	Production Control Specialist		112	Y			
+H20020	Position(직책)	E102	113	CM1Inter Operator	CM1Inter Operator		113	Y	CM1		
+H20020	Position(직책)	E102	114	Soaking F'ceOperate Crane	Soaking F'ceOperate Crane		114	Y	Soaking F'ce		
+H20020	Position(직책)	E102	115	Whole plantPlant Environment Management	Whole plantPlant Environment Management		115	Y	Whole plant		
+H20020	Position(직책)	E102	116	Electrical & Automation Engineer	Electrical & Automation Engineer		116	Y			
+H20020	Position(직책)	E102	117	DC1CAST	DC1CAST		117	Y	DC1		
+H20020	Position(직책)	E102	118	DC2MF/CRANE	DC2MF/CRANE		118	Y	DC2		
+H20020	Position(직책)	E102	119	RecoveryFork truck Management	RecoveryFork truck Management		119	Y			
+H20020	Position(직책)	E102	120	RG베어링세척	RG Bearing Clenaing		120	Y	RG		
+H20020	Position(직책)	E102	121	Reliab Leader	Reliab Leader		121	Y			
+H20020	Position(직책)	E102	122	DC2IN-LINE/LiMCA	DC2IN-LINE/LiMCA		122	Y	DC2		
+H20020	Position(직책)	E102	123	Maintenance planner	Maintenance planner		123	Y	Maintenance		
+H20020	Position(직책)	E102	124	ShippingShipping	ShippingShipping		124	Y			
+H20020	Position(직책)	E102	125	Mold MtcResource and Mold shopForeman	Mold MtcResource and Mold shopForeman		125	Y			
+H20020	Position(직책)	E102	126	MaintenanceShop Floor ManagementForeman	MaintenanceShop Floor ManagementForeman		126	Y	Maintenance		
+H20020	Position(직책)	E102	127	Slitter3Fork truck Driving	Slitter3Fork truck Driving		127	Y	Slitter3		
+H20020	Position(직책)	E102	128	PusherShift Leader	PusherShift Leader		128	Y			
+H20020	Position(직책)	E102	129	CastingShift Leader	CastingShift Leader		129	Y	Casting		
+H20020	Position(직책)	E102	130	EHS ManagerTeam Head	EHS ManagerTeam Head		130	Y			
+H20020	Position(직책)	E102	131	DC2Shop Floor ManagementForeman	DC2Shop Floor ManagementForeman		131	Y	DC2		
+H20020	Position(직책)	E102	132	Can Commercial Leader-South East AsiaTeam Leader	Can Commercial Leader-South East AsiaTeam Leader		132	N			
+H20020	Position(직책)	E102	133	Manufacturing Unit ManagerUnit Manager	Manufacturing Unit ManagerUnit Manager		133	Y			
+H20020	Position(직책)	E102	134	Sr.IT Infrastructure Specialist	Sr.IT Infrastructure Specialist		134	Y			
+H20020	Position(직책)	E102	135	Sr.Sales RepresentativeTeam Head	Sr.Sales RepresentativeTeam Head		135	Y			
+H20020	Position(직책)	E102	136	Sr.HR Specialist	Sr.HR Specialist		136	Y			
+H20020	Position(직책)	E102	137	Welfare support	Welfare support		137	Y			
+H20020	Position(직책)	E102	138	Technology Center DirectorTeam Head	Technology Center DirectorTeam Head		138	Y			
+H20020	Position(직책)	E102	139	Business development Representative	Business development Representative		139	Y			
+H20020	Position(직책)	E102	140	Hot Mill & Roll Grinder LeaderTeam Leader	Hot Mill & Roll Grinder LeaderTeam Leader		140	Y			
+H20020	Position(직책)	E102	141	Fabrication	Fabrication		141	Y			
+H20020	Position(직책)	E102	142	Soaking F'ceSoaking F'ce OperatorForeman	Soaking F'ceSoaking F'ce OperatorForeman		142	Y	Soaking F'ce		
+H20020	Position(직책)	E102	143	Automotive Sales & Marketing DirectorSenior Manager	Automotive Sales & Marketing DirectorSenior Manager		143	Y			
+H20020	Position(직책)	E102	144	Can Sales & Marketing VPSenior Manager	Can Sales & Marketing VPSenior Manager		144	Y			
+H20020	Position(직책)	E102	145	Sr Process Engineer	Sr Process Engineer		145	Y			
+H20020	Position(직책)	E102	146	Recycle#1Operator	Recycle#1Operator		146	Y	Recycle		
+H20020	Position(직책)	E102	147	Melting F'ceMF3 Operator	Melting F'ceMF3 Operator		147	Y	Melting F'ce		
+H20020	Position(직책)	E102	148	DC2스니프	DC2 Sniff		148	Y	DC2		
+H20020	Position(직책)	E102	149	Machinery Maintenance	Machinery Maintenance		149	Y			
+H20020	Position(직책)	E102	150	CM2Operator	CM2Operator		150	Y	CM2		
+H20020	Position(직책)	E102	151	ScalperOperate Crane	ScalperOperate Crane		151	Y	Scalper		
+H20020	Position(직책)	E102	152	Talent Management LeaderTeam Leader	Talent Management LeaderTeam Leader		152	Y			
+H20020	Position(직책)	E102	153	MF1,3Charging Operator	MF1,3Charging Operator		153	Y	MF1,3		
+H20020	Position(직책)	E102	154	ChargingOperate Crane	ChargingOperate Crane		154	Y	Charging		
+H20020	Position(직책)	E102	155	Pollutant treatment facilityEquipment Maintenance	Pollutant treatment facilityEquipment Maintenance		155	Y			
+H20020	Position(직책)	E102	156	DC1Main Operator	DC1Main Operator		156	Y	DC1		
+H20020	Position(직책)	E102	157	IT Applications Specialist	IT Applications Specialist		157	Y			
+H20020	Position(직책)	E102	158	Sales Coordinator	Sales Coordinator		158	Y			
+H20020	Position(직책)	E102	159	DC2T탕도	DC2T Runner		159	Y	DC2		
+H20020	Position(직책)	E102	160	가공Fabrication	Fabrication		160	Y			
+H20020	Position(직책)	E102	161	Annealing F'ceMain Operator	Annealing F'ceMain Operator		161	Y	Annealing F'ce		
+H20020	Position(직책)	E102	162	Coating LineShift Leader	Coating LineShift Leader		162	Y	Coating Line		
+H20020	Position(직책)	E102	163	HR DirectorSenior Manager	HR DirectorSenior Manager		163	Y			
+H20020	Position(직책)	E102	164	Annealing F'ceOperator	Annealing F'ceOperator		164	Y	Annealing F'ce		
+H20020	Position(직책)	E102	165	MeltingShift Leader	MeltingShift Leader		165	Y			
+H20020	Position(직책)	E102	166	Project Controller	Project Controller		166	Y			
+H20020	Position(직책)	E102	167	Union administrative work	Union administrative work		167	Y			
+H20020	Position(직책)	E102	168	RollShop LeaderTeam Leader	RollShop LeaderTeam Leader		168	Y			
+H20020	Position(직책)	E102	169	Environmental equipmentOperating environmental equipment	Environmental equipmentOperating environmental equipment		169	Y	Environmental equipment		
+H20020	Position(직책)	E102	170	Technology ManagerTeam Head	Technology ManagerTeam Head		170	Y			
+H20020	Position(직책)	E102	171	Operations Planning ManagerTeam Head	Operations Planning ManagerTeam Head		171	Y			
+H20020	Position(직책)	E102	172	AEO Manager	AEO Manager		172	Y			
+H20020	Position(직책)	E102	173	TLOperator	TLOperator		173	Y	TL		
+H20020	Position(직책)	E102	174	Metal Purchasing Managing DirectorSenior Manager	Metal Purchasing Managing DirectorSenior Manager		174	Y			
+H20020	Position(직책)	E102	175	Civil Construction Engineer	Civil Construction Engineer		175	Y			
+H20020	Position(직책)	E102	176	Risk Management ManagerTeam Head	Risk Management ManagerTeam Head		176	Y			
+H20020	Position(직책)	E102	177	Production Control ManagerTeam Head	Production Control ManagerTeam Head		177	Y			
+H20020	Position(직책)	E102	178	CM2Shop Floor ManagementForeman	CM2Shop Floor ManagementForeman		178	Y	CM2		
+H20020	Position(직책)	E102	179	Mech Engineer	Mech Engineer		179	Y			
+H20020	Position(직책)	E102	180	Accountant	Accountant		180	Y			
+H20020	Position(직책)	E102	181	CM2Operate Crane	CM2Operate Crane		181	Y	CM2		
+H20020	Position(직책)	E102	182	MaintenanceMaintenance	MaintenanceMaintenance		182	Y	Maintenance		
+H20020	Position(직책)	E102	183	Melting F'ceMF4 Operator	Melting F'ceMF4 Operator		183	Y	Melting F'ce		
+H20020	Position(직책)	E102	184	RG#2Operator	RG#2Operator		184	Y	RG		
+H20020	Position(직책)	E102	185	RMSub Operator	RMSub Operator		185	Y	RM		
+H20020	Position(직책)	E102	186	OESOES	OESOES		186	Y			
+H20020	Position(직책)	E102	187	DC1T탕도	DC1T Runner		187	Y	DC1		
+H20020	Position(직책)	E102	188	Operations ManagerSenior Manager	Operations ManagerSenior Manager		188	Y			
+H20020	Position(직책)	E102	189	Coating LineSub Operator	Coating LineSub Operator		189	Y	Coating Line		
+H20020	Position(직책)	E102	190	Slitter2Operator	Slitter2Operator		190	Y	Slitter2		
+H20020	Position(직책)	E102	191	IT Infra Spec	IT Infra Spec		191	Y			
+H20020	Position(직책)	E102	192	ChargingMF3,4 Operator	ChargingMF3,4 Operator		192	Y	Charging		
+H20020	Position(직책)	E102	193	Casting equipmentMachinery Maintenance	Casting equipmentMachinery Maintenance		193	Y	Casting equipment		
+H20020	Position(직책)	E102	194	HMChock	HMChock		194	Y	HM		
+H20020	Position(직책)	E102	195	PackagingShift Leader	PackagingShift Leader		195	Y	Packaging		
+H20020	Position(직책)	E102	196	Process LeaderTeam Leader	Process LeaderTeam Leader		196	Y			
+H20020	Position(직책)	E102	197	UtilitiesBoiler	UtilitiesBoiler		197	Y	Utilities		
+H20020	Position(직책)	E102	198	Charging.ABS	Charging.ABS		198	Y			
+H20020	Position(직책)	E102	199	Melting & Casting equipmentShop Floor ManagementForeman	Melting & Casting equipmentShop Floor ManagementForeman		199	Y	Melting & Casting equipment		
+H20020	Position(직책)	E102	200	RMMain Operator	RMMain Operator		200	Y	RM		
+H20020	Position(직책)	E102	201	Production Planner	Production Planner		201	Y			
+H20020	Position(직책)	E102	202	Fork truck Management Foreman	Fork truck Management Foreman		202	Y	Fork truck Management		
+H20020	Position(직책)	E102	203	Packagingwoodworking plant	Packagingwoodworking plant		203	Y	Packaging		
+H20020	Position(직책)	E102	204	RGShop Floor Management (R/G)Foreman	RGShop Floor Management (R/G)Foreman		204	Y	RG		
+H20020	Position(직책)	E102	205	ScalperMain Operator	ScalperMain Operator		205	Y	Scalper		
+H20020	Position(직책)	E102	206	Credit ManagerTeam Head	Credit ManagerTeam Head		206	Y			
+H20020	Position(직책)	E102	207	Accounting ManagerTeam Head	Accounting ManagerTeam Head		207	Y			
+H20020	Position(직책)	E102	208	IT Business Systems ManagerTeam Head	IT Business Systems ManagerTeam Head		208	Y			
+H20020	Position(직책)	E102	209	CM2Conveyor Operator	CM2Conveyor Operator		209	Y	CM2		
+H20020	Position(직책)	E102	210	CM1Conveyor Operator	CM1Conveyor Operator		210	Y	CM1		
+H20020	Position(직책)	E102	211	Sr.Purchasing Agent	Sr.Purchasing Agent		211	Y			
+H20020	Position(직책)	E102	212	DirectorSenior Manager	DirectorSenior Manager		212	Y			
+H20020	Position(직책)	E102	213	Director IT	Director IT		213	Y			
+H20020	Position(직책)	E102	214	ChargingMF1,2 Operator	ChargingMF1,2 Operator		214	Y	Charging		
+H20020	Position(직책)	E102	215	Electronic Maintenance	Electronic Maintenance		215	Y			
+H20020	Position(직책)	E102	216	Accounting & Tax Specialist	Accounting & Tax Specialist		216	Y			
+H20020	Position(직책)	E102	217	Accounting Specialist	Accounting Specialist		217	Y			
+H20020	Position(직책)	E102	218	RGROLL assembling	RGROLL assembling		218	Y	RG		
+H20020	Position(직책)	E102	219	ScalperSub Operator	ScalperSub Operator		219	Y	Scalper		
+H20020	Position(직책)	E102	220	RG#3Operator	RG#3Operator		220	Y	RG		
+H20020	Position(직책)	E102	221	PackagingOperator	PackagingOperator		221	Y	Packaging		
+H20020	Position(직책)	E102	222	CM1Entry Operator	CM1Entry Operator		222	Y	CM1		
+H20020	Position(직책)	E102	223	Material Specialist	Material Specialist		223	Y			
+H20020	Position(직책)	E102	224	Supply Chain Specialist	Supply Chain Specialist		224	Y			
+H20020	Position(직책)	E102	225	Operations Planning Specialist	Operations Planning Specialist		225	Y			
+H20020	Position(직책)	E102	226	FMSub Operator	FMSub Operator		226	Y	FM		
+H20020	Position(직책)	E102	227	TL 2Sub Operator	TL 2Sub Operator		227	Y	TL 2		
+H20020	Position(직책)	E102	228	PusherSub Operator	PusherSub Operator		228	Y			
+H20020	Position(직책)	E102	229	Communication Mgr	Communication Mgr		229	Y			
+H20020	Position(직책)	E102	230	FMOperate Crane	FMOperate Crane		230	Y	FM		
+H20020	Position(직책)	E102	231	Project ManagerTeam Head	Project ManagerTeam Head		231	Y			
+H20020	Position(직책)	E102	232	DC1IN-LINE	DC1IN-LINE		232	Y	DC1		
+H20020	Position(직책)	E102	233	Enginering LeaderTeam Leader	Enginering LeaderTeam Leader		233	Y			
+H20020	Position(직책)	E102	234	Operation LeaderTeam Leader	Operation LeaderTeam Leader		234	Y			
+H20020	Position(직책)	E102	235	CI/Lean Coordinator	CI/Lean Coordinator		235	Y			
+H20020	Position(직책)	E102	236	Director	Director		236	Y			
+H20020	Position(직책)	E102	237	Quality ManagementForeman	Quality ManagementForeman		237	Y			
+H20020	Position(직책)	E102	238	Band SawOperatorForeman	Band SawOperatorForeman		238	Y	Band Saw		
+H20020	Position(직책)	E102	239	Environmental equipmentManaging operation of environmental equipmentForeman	Environmental equipmentManaging operation of environmental equipmentForeman		239	Y	Environmental equipment		
+H20020	Position(직책)	E102	240	DirectorTeam Head	DirectorTeam Head		240	Y			
+H20020	Position(직책)	E102	241	HMCoolant/Coil Transfer	HMCoolant/Coil Transfer		241	Y	HM		
+H20020	Position(직책)	E102	242	Sr.Sales Representative	Sr.Sales Representative		242	Y			
+H20020	Position(직책)	E102	243	Project ManagerSenior Manager	Project ManagerSenior Manager		243	Y			
+H20020	Position(직책)	E102	244	Overall Business Lead	Overall Business Lead		244	Y			
+H20020	Position(직책)	E102	245	Specialties Sales & Marketing DirectorSenior Manager	Specialties Sales & Marketing DirectorSenior Manager		245	Y			
+H20020	Position(직책)	E102	246	Maintenance ManagerTeam Head	Maintenance ManagerTeam Head		246	Y	Maintenance		
+H20020	Position(직책)	E102	247	Sr Qual Engineer	Sr Qual Engineer		247	Y			
+H20020	Position(직책)	E102	248	BMS ManagerTeam Head	BMS ManagerTeam Head		248	Y			
+H20020	Position(직책)	E102	249	ScalperScalper OperatorForeman	ScalperScalper OperatorForeman		249	Y	Scalper		
+H20020	Position(직책)	E102	250	MaintenanceElectronic Maintenance	MaintenanceElectronic Maintenance		250	Y	Maintenance		
+H20020	Position(직책)	E102	251	Business development Specialist	Business development Specialist		251	Y			
+H20020	Position(직책)	E102	252	Melting & Casting equipmentMachinery Maintenance	Melting & Casting equipmentMachinery Maintenance		252	Y	Melting & Casting equipment		
+H20020	Position(직책)	E102	253	FMMain Operator	FMMain Operator		253	Y	FM		
+H20020	Position(직책)	E102	254	CM2Exit operator	CM2Exit operator		254	Y	CM2		
+H20020	Position(직책)	E102	255	Talent Management Manager	Talent Management Manager		255	Y			
+H20020	Position(직책)	E102	256	Environmental Engineer	Environmental Engineer		256	Y			
+H20020	Position(직책)	E102	257	Slitter1Sub Operator	Slitter1Sub Operator		257	Y	Slitter1		
+H20020	Position(직책)	E102	258	Driver	Driver		258	Y			
+H20020	Position(직책)	E102	259	DC2HF	DC2HF		259	Y	DC2		
+H20020	Position(직책)	E102	260	Fork truck Management Foreman	Fork truck Management Foreman		260	Y	Fork truck Management		
+H20020	Position(직책)	E102	261	MaintenanceInventory	MaintenanceInventory		261	Y	Maintenance		
+H20020	Position(직책)	E102	262	Nurse	Nurse		262	Y			
+H20020	Position(직책)	E102	263	Controller	Controller		263	Y			
+H20020	Position(직책)	E102	264	CM1Sub Operator	CM1Sub Operator		264	Y	CM1		
+H20020	Position(직책)	E102	265	Slitter1Main Operator	Slitter1Main Operator		265	Y	Slitter1		
+H20020	Position(직책)	E102	266	Operations ControllerTeam Head	Operations ControllerTeam Head		266	Y			
+H20020	Position(직책)	E102	267	Inventory managementInventory	Inventory managementInventory		267	Y			
+H20020	Position(직책)	E102	268	CMInventory	CMInventory		268	Y	CM		
+H20020	Position(직책)	E102	269	UtilitiesGas	UtilitiesGas		269	Y	Utilities		
+H20020	Position(직책)	E102	270	Process Data Analysis	Process Data Analysis		270	Y			
+H20020	Position(직책)	E102	271	RGRoll관리	RGRoll Management		271	Y	RG		
+H20020	Position(직책)	E102	272	Sales Coordination ManagerTeam Head	Sales Coordination ManagerTeam Head		272	Y			
+H20020	Position(직책)	E102	273	Sr.IT Business Systems Analyst	Sr.IT Business Systems Analyst		273	Y			
+H20020	Position(직책)	E102	274	Regional Sales ManagerTeam Head	Regional Sales ManagerTeam Head		274	Y			
+H20020	Position(직책)	E102	275	Purchasing ManagerTeam Head	Purchasing ManagerTeam Head		275	Y			
+H20020	Position(직책)	E102	276	Forklift Manatenance Engineer	Forklift Manatenance Engineer		276	Y			
+H20020	Position(직책)	E102	277	Engineering ManagerTeam Head	Engineering ManagerTeam Head		277	Y			
+H20020	Position(직책)	E102	278	IT Applications ManagerTeam Head	IT Applications ManagerTeam Head		278	Y			
+H20020	Position(직책)	E102	279	PDM, Combustion	PDM, Combustion		279	Y			
+H20020	Position(직책)	E102	280	Environmental Specialist	Environmental Specialist		280	Y			
+H20020	Position(직책)	E102	281	Team Head	Team Head		280	N			
+H20020	Position(직책)	E102	282	10ton AMelting	10ton AMelting		280	N			
+H20020	Position(직책)	E102	283	10ton BMelting	10ton BMelting		280	N			
+H20020	Position(직책)	E102	284	30ton furnaceMelting	30ton furnaceMelting		280	N			
+H20020	Position(직책)	E102	285	Administration Unit ManagerUnit Manager	Administration Unit ManagerUnit Manager		280	N			
+H20020	Position(직책)	E102	286	Alloy casting equipmentInventory	Alloy casting equipmentInventory		280	N			
+H20020	Position(직책)	E102	287	Alloy casting equipmentMold maintenance	Alloy casting equipmentMold maintenance		280	N			
+H20020	Position(직책)	E102	288	Annealing F'ceSub Operator	Annealing F'ceSub Operator		280	N			
+H20020	Position(직책)	E102	289	Annealing.Technician	Annealing.Technician		280	N			
+H20020	Position(직책)	E102	290	Autom Engineer	Autom Engineer		280	Y			
+H20020	Position(직책)	E102	291	Automation Manager	Automation Manager		280	N			
+H20020	Position(직책)	E102	292	Automation ManagerTeam Head	Automation ManagerTeam Head		280	N			
+H20020	Position(직책)	E102	293	Automation Specialist.	Automation Specialist.		280	N			
+H20020	Position(직책)	E102	294	Biz Dev't DirectorSenior Manager	Biz Dev't DirectorSenior Manager		280	N			
+H20020	Position(직책)	E102	295	Biz Dev't Managing DirectorSenior Manager	Biz Dev't Managing DirectorSenior Manager		280	N			
+H20020	Position(직책)	E102	296	Black Belt	Black Belt		280	N			
+H20020	Position(직책)	E102	297	Budget Inventory	Budget Inventory		280	N			
+H20020	Position(직책)	E102	298	Business development RepresentativeTeam Head	Business development RepresentativeTeam Head		280	N			
+H20020	Position(직책)	E102	299	Business Planning Specialist	Business Planning Specialist		280	N			
+H20020	Position(직책)	E102	300	CAD Engineer	CAD Engineer		280	N			
+H20020	Position(직책)	E102	301	Capability Improvement	Capability Improvement		280	N			
+H20020	Position(직책)	E102	302	Casting equipmentCasting	Casting equipmentCasting		280	N			
+H20020	Position(직책)	E102	303	Casting equipmentInventory	Casting equipmentInventory		280	N			
+H20020	Position(직책)	E102	304	Casting equipmentMold maintenance	Casting equipmentMold maintenance		280	N			
+H20020	Position(직책)	E102	305	Casting equipmentRow Material transfer / management	Casting equipmentRow Material transfer / management		280	N			
+H20020	Position(직책)	E102	306	Casting Process	Casting Process		280	N			
+H20020	Position(직책)	E102	307	CastingDC1 Operator	CastingDC1 Operator		280	N			
+H20020	Position(직책)	E102	308	CastingDC2 Operator	CastingDC2 Operator		280	N			
+H20020	Position(직책)	E102	309	CastingOperator	CastingOperator		280	N			
+H20020	Position(직책)	E102	310	ChargingMF1 Operator	ChargingMF1 Operator		280	N			
+H20020	Position(직책)	E102	311	ChargingMF2 Operator	ChargingMF2 Operator		280	N			
+H20020	Position(직책)	E102	312	ChargingMF3 Operator	ChargingMF3 Operator		280	N			
+H20020	Position(직책)	E102	313	ChargingMF4 Operator	ChargingMF4 Operator		280	N			
+H20020	Position(직책)	E102	314	Chemical testing equipmentChemical Analysis	Chemical testing equipmentChemical Analysis		280	N			
+H20020	Position(직책)	E102	315	Chemical testing equipmentShop Floor ManagementForeman	Chemical testing equipmentShop Floor ManagementForeman		280	N			
+H20020	Position(직책)	E102	316	CHIP MeltingOperator	CHIP MeltingOperator		280	N			
+H20020	Position(직책)	E102	317	CI & BMS Manager	CI & BMS Manager		280	N			
+H20020	Position(직책)	E102	318	Civil Engineer	Civil Engineer		280	N			
+H20020	Position(직책)	E102	319	CM1CCT	CM1CCT		280	N			
+H20020	Position(직책)	E102	320	CM2Fork truck Maintenance	CM2Fork truck Maintenance		280	N			
+H20020	Position(직책)	E102	321	CM2Main Operator	CM2Main Operator		280	N			
+H20020	Position(직책)	E102	322	CM2PCR	CM2PCR		280	N			
+H20020	Position(직책)	E102	323	Coating LineMain Operator	Coating LineMain Operator		280	N			
+H20020	Position(직책)	E102	324	Cold Mill & Roll Grinder LeaderTeam Leader	Cold Mill & Roll Grinder LeaderTeam Leader		280	N			
+H20020	Position(직책)	E102	325	Cold Mill EquipmentElectronic Maintenance	Cold Mill EquipmentElectronic Maintenance		280	N			
+H20020	Position(직책)	E102	326	Cold Mill EquipmentMachinery Maintenance	Cold Mill EquipmentMachinery Maintenance		280	N			
+H20020	Position(직책)	E102	327	Cold Mill EquipmentMaintenance PlannerForeman	Cold Mill EquipmentMaintenance PlannerForeman		280	N			
+H20020	Position(직책)	E102	328	Cold Mill EquipmentShop Floor ManagementForeman	Cold Mill EquipmentShop Floor ManagementForeman		280	N			
+H20020	Position(직책)	E102	329	Cold Mill Inventory	Cold Mill Inventory		280	N			
+H20020	Position(직책)	E102	330	Comm.Mgr.	Comm.Mgr.		280	Y			
+H20020	Position(직책)	E102	331	Comm. Specialist	Comm. Specialist		280	Y			
+H20020	Position(직책)	E102	332	Communication	Communication		280	N			
+H20020	Position(직책)	E102	333	Computer systemIT	Computer systemIT		280	N			
+H20020	Position(직책)	E102	334	Computer systemSystem Operation	Computer systemSystem Operation		280	N			
+H20020	Position(직책)	E102	335	Construction & Mechanical Engineering Leader	Construction & Mechanical Engineering Leader		280	N			
+H20020	Position(직책)	E102	336	Controller1Team Head	Controller1Team Head		280	N			
+H20020	Position(직책)	E102	337	ControllerTeam Head	ControllerTeam Head		280	N			
+H20020	Position(직책)	E102	338	Cook	Cook		280	N			
+H20020	Position(직책)	E102	339	Coolant Engineering LeaderTeam Leader	Coolant Engineering LeaderTeam Leader		280	N			
+H20020	Position(직책)	E102	340	Crane.기계정비.반장	Crane. Machniery Maintenance . Leader		280	N			
+H20020	Position(직책)	E102	341	CTL1Operator	CTL1Operator		280	N			
+H20020	Position(직책)	E102	342	CTL2,3Operator	CTL2,3Operator		280	N			
+H20020	Position(직책)	E102	343	CTLAssistant	CTLAssistant		280	N			
+H20020	Position(직책)	E102	344	CTLFork truck Driving	CTLFork truck Driving		280	N			
+H20020	Position(직책)	E102	345	CTLMain Operator	CTLMain Operator		280	N			
+H20020	Position(직책)	E102	346	CTLSub Operator	CTLSub Operator		280	N			
+H20020	Position(직책)	E102	347	DC1T탕도	DC1T Runner		280	N			
+H20020	Position(직책)	E102	348	DC1스니프	DC1 Sniff		280	N			
+H20020	Position(직책)	E102	349	DC2T탕도	DC2T Runner		280	N			
+H20020	Position(직책)	E102	350	DC2스니프	DC2 Sniff		280	N			
+H20020	Position(직책)	E102	351	DegreasingDegreasing Operator	DegreasingDegreasing Operator		280	N			
+H20020	Position(직책)	E102	352	Demand Planner	Demand Planner		280	Y			
+H20020	Position(직책)	E102	353	Manager Demand	Manager Demand		280	N			
+H20020	Position(직책)	E102	354	Dietitian	Dietitian		280	N			
+H20020	Position(직책)	E102	355	EHS CoordinatorFloor-line Leader	EHS CoordinatorFloor-line Leader		280	N			
+H20020	Position(직책)	E102	356	Electrical Engineering Leader	Electrical Engineering Leader		280	N			
+H20020	Position(직책)	E102	357	Electrical&Automation LeaderTeam Leader	Electrical&Automation LeaderTeam Leader		280	N			
+H20020	Position(직책)	E102	358	electronic maintenanceForeman	electronic maintenanceForeman		280	N			
+H20020	Position(직책)	E102	359	Emergency Planner	Emergency Planner		280	N			
+H20020	Position(직책)	E102	360	Eng & MTC Engineer	Eng & MTC Engineer		280	N			
+H20020	Position(직책)	E102	361	Engineering Leader	Engineering Leader		280	N			
+H20020	Position(직책)	E102	362	Enginering & Process LeaderTeam Leader	Enginering & Process LeaderTeam Leader		280	N			
+H20020	Position(직책)	E102	363	Enginering Leader	Enginering Leader		280	N			
+H20020	Position(직책)	E102	364	Environmental equipmentHOT COOLANT treatment	Environmental equipmentHOT COOLANT treatment		280	N			
+H20020	Position(직책)	E102	365	Environmental equipmentOil contained waste water treatment	Environmental equipmentOil contained waste water treatment		280	N			
+H20020	Position(직책)	E102	366	Environmental equipmentOperating air emission treatment equipment	Environmental equipmentOperating air emission treatment equipment		280	N			
+H20020	Position(직책)	E102	367	Environmental equipmentWaste/ toxic materials	Environmental equipmentWaste/ toxic materials		280	N			
+H20020	Position(직책)	E102	368	Environmental equipment탈지&Coolant폐수처리	Environmental equipment탈지&Coolant폐수처리		280	N			
+H20020	Position(직책)	E102	369	Equipment inventory	Equipment inventory		280	N			
+H20020	Position(직책)	E102	370	Equipment MaintenanceFloor-line Leader	Equipment MaintenanceFloor-line Leader		280	N			
+H20020	Position(직책)	E102	371	Experimental equipmentAnalogizing work	Experimental equipmentAnalogizing work		280	N			
+H20020	Position(직책)	E102	372	Experimental equipmentMaterial Testing	Experimental equipmentMaterial Testing		280	N			
+H20020	Position(직책)	E102	373	Experimental equipmentMechanical testing	Experimental equipmentMechanical testing		280	N			
+H20020	Position(직책)	E102	374	Experimental equipmentShop Floor ManagementForeman	Experimental equipmentShop Floor ManagementForeman		280	N			
+H20020	Position(직책)	E102	375	Financial Planning Specialist	Financial Planning Specialist		280	N			
+H20020	Position(직책)	E102	376	Finishing ManagerTeam Head	Finishing ManagerTeam Head		280	N			
+H20020	Position(직책)	E102	377	Finishing Manufacturing Unit ManagerUnit Manager	Finishing Manufacturing Unit ManagerUnit Manager		280	N			
+H20020	Position(직책)	E102	378	Finishing Specialist	Finishing Specialist		280	N			
+H20020	Position(직책)	E102	379	FM Training	FM Training		280	N			
+H20020	Position(직책)	E102	380	Fork truck ManagementFork truck Maintenance	Fork truck ManagementFork truck Maintenance		280	N			
+H20020	Position(직책)	E102	381	Fork truck ManagementFork truck MaintenanceForeman	Fork truck ManagementFork truck MaintenanceForeman		280	N			
+H20020	Position(직책)	E102	382	Fork truck ManagementMain Operator	Fork truck ManagementMain Operator		280	N			
+H20020	Position(직책)	E102	383	General Administration, Packaging management	General Administration, Packaging management		280	N			
+H20020	Position(직책)	E102	384	General Affairs	General Affairs		280	N			
+H20020	Position(직책)	E102	385	General Inventory Management	General Inventory Management		280	N			
+H20020	Position(직책)	E102	386	GHG Leader	GHG Leader		280	N			
+H20020	Position(직책)	E102	387	Health Specialist	Health Specialist		280	N			
+H20020	Position(직책)	E102	388	HFM.Technician	HFM.Technician		280	N			
+H20020	Position(직책)	E102	389	HM.보조운전	HM. Auxiliary Operation		280	N			
+H20020	Position(직책)	E102	390	HM.압연유,코일관리	HM. Rolling Oil, Coil Management		280	N			
+H20020	Position(직책)	E102	391	HM.주운전.파트장	HM. Main Driver. Part Leader		280	N			
+H20020	Position(직책)	E102	392	HM.판검사	HM.판검사		280	N			
+H20020	Position(직책)	E102	393	HMChemical Testing	HMChemical Testing		280	N			
+H20020	Position(직책)	E102	394	HMChemical TestingForeman	HMChemical TestingForeman		280	N			
+H20020	Position(직책)	E102	395	HMCoollant Operator	HMCoollant Operator		280	N			
+H20020	Position(직책)	E102	396	HMExit Operator	HMExit Operator		280	N			
+H20020	Position(직책)	E102	397	HMProcess Inspection	HMProcess Inspection		280	N			
+H20020	Position(직책)	E102	398	Hot Mill EquipmentElectronic Maintenance	Hot Mill EquipmentElectronic Maintenance		280	N			
+H20020	Position(직책)	E102	399	Hot Mill EquipmentMachinery Maintenance	Hot Mill EquipmentMachinery Maintenance		280	N			
+H20020	Position(직책)	E102	400	Hot Mill EquipmentMachinery MaintenanceForeman	Hot Mill EquipmentMachinery MaintenanceForeman		280	N			
+H20020	Position(직책)	E102	401	Hot Mill Inventory	Hot Mill Inventory		280	N			
+H20020	Position(직책)	E102	402	Hot Mill production quality	Hot Mill production quality		280	N			
+H20020	Position(직책)	E102	403	HR Manager.Team Head	HR Manager.Team Head		280	N			
+H20020	Position(직책)	E102	404	HR Specialist(Nutritionist)	HR Specialist(Nutritionist)		280	N			
+H20020	Position(직책)	E102	405	HR & Communications Specialist	HR & Communications Specialist		280	N			
+H20020	Position(직책)	E102	406	Inspection Leader	Inspection Leader		280	N			
+H20020	Position(직책)	E102	407	Inventory managementInventoryForeman	Inventory managementInventoryForeman		280	N			
+H20020	Position(직책)	E102	408	IT and Procurement Managing DirectorSenior Manager	IT and Procurement Managing DirectorSenior Manager		280	N			
+H20020	Position(직책)	E102	409	IT and Procurement Vice PresidentSenior Manager	IT and Procurement Vice PresidentSenior Manager		280	N			
+H20020	Position(직책)	E102	410	IT Business Analysis ManagerTeam Head	IT Business Analysis ManagerTeam Head		280	N			
+H20020	Position(직책)	E102	411	IT Business Analyst	IT Business Analyst		280	N			
+H20020	Position(직책)	E102	412	IT DirectorTeam Head	IT DirectorTeam Head		280	N			
+H20020	Position(직책)	E102	413	IT ManagerTeam Head	IT ManagerTeam Head		280	N			
+H20020	Position(직책)	E102	414	IT Operations ManagerTeam Head	IT Operations ManagerTeam Head		280	N			
+H20020	Position(직책)	E102	415	IT Operations Specialist	IT Operations Specialist		280	N			
+H20020	Position(직책)	E102	416	Lab	Lab		280	N			
+H20020	Position(직책)	E102	417	LabForeman	LabForeman		280	N			
+H20020	Position(직책)	E102	418	Manager Logistics	Manager Logistics		280	N			
+H20020	Position(직책)	E102	419	Machine Guarding	Machine Guarding		280	N			
+H20020	Position(직책)	E102	420	Machine GuardingTeam Leader	Machine GuardingTeam Leader		280	N			
+H20020	Position(직책)	E102	421	Machinery MaintenanceForeman	Machinery MaintenanceForeman		280	N			
+H20020	Position(직책)	E102	422	Maintenance	Maintenance		280	N			
+H20020	Position(직책)	E102	423	Maintenance inventory management	Maintenance inventory management		280	N			
+H20020	Position(직책)	E102	424	Maintenance managementForeman	Maintenance managementForeman		280	N			
+H20020	Position(직책)	E102	425	MaintenanceElectricity	MaintenanceElectricity		280	N			
+H20020	Position(직책)	E102	426	MaintenanceForeman	MaintenanceForeman		280	N			
+H20020	Position(직책)	E102	427	MaintenanceMaintenance plannerForeman	MaintenanceMaintenance plannerForeman		280	N			
+H20020	Position(직책)	E102	428	Manager Metal Planning	Manager Metal Planning		280	N			
+H20020	Position(직책)	E102	429	Managing Dir.Senior Manager	Managing Dir.Senior Manager		280	N			
+H20020	Position(직책)	E102	430	ManufacturingPipe	ManufacturingPipe		280	N			
+H20020	Position(직책)	E102	431	Mechnical Engineer	Mechnical Engineer		280	N			
+H20020	Position(직책)	E102	432	Melting F'ceDC1 Operator	Melting F'ceDC1 Operator		280	N			
+H20020	Position(직책)	E102	433	Melting F'ceDC2 Operator	Melting F'ceDC2 Operator		280	N			
+H20020	Position(직책)	E102	434	Metallurgical testing equipAdministrative work/ metallurgical testing	Metallurgical testing equipAdministrative work/ metallurgical testing		280	N			
+H20020	Position(직책)	E102	435	Metallurgical testing equipMechanical Testing	Metallurgical testing equipMechanical Testing		280	N			
+H20020	Position(직책)	E102	436	Metallurgical testing equipShop Floor ManagementForeman	Metallurgical testing equipShop Floor ManagementForeman		280	N			
+H20020	Position(직책)	E102	437	Metallurgical testing equipSupport Solatens	Metallurgical testing equipSupport Solatens		280	N			
+H20020	Position(직책)	E102	438	Mold MtcShop Floor ManagementForeman	Mold MtcShop Floor ManagementForeman		280	N			
+H20020	Position(직책)	E102	439	Non-Metal Procurement Senior Manager	Non-Metal Procurement Senior Manager		280	N			
+H20020	Position(직책)	E102	440	Novelis 2.0 Analyst	Novelis 2.0 Analyst		280	N			
+H20020	Position(직책)	E102	441	Oil, Vibration, Analysis	Oil, Vibration, Analysis		280	N			
+H20020	Position(직책)	E102	442	Operation & Process Engineer	Operation & Process Engineer		280	N			
+H20020	Position(직책)	E102	443	Operations Planning Manager	Operations Planning Manager		280	N			
+H20020	Position(직책)	E102	444	Operations Planning ManagerTeam Leader	Operations Planning ManagerTeam Leader		280	N			
+H20020	Position(직책)	E102	445	OperatorForeman	OperatorForeman		280	N			
+H20020	Position(직책)	E102	446	OtherCasting Group Foreman	OtherCasting Group Foreman		280	N			
+H20020	Position(직책)	E102	447	OtherCating Unit Manager	OtherCating Unit Manager		280	N			
+H20020	Position(직책)	E102	448	OtherCold Mill Quality Team Leader	OtherCold Mill Quality Team Leader		280	N			
+H20020	Position(직책)	E102	449	OtherCold Mill Team Leader	OtherCold Mill Team Leader		280	N			
+H20020	Position(직책)	E102	450	OtherContingency Planning Team Leader	OtherContingency Planning Team Leader		280	N			
+H20020	Position(직책)	E102	451	OtherFines Analysis Foreman	OtherFines Analysis Foreman		280	N			
+H20020	Position(직책)	E102	452	OtherForeman	OtherForeman		280	N			
+H20020	Position(직책)	E102	453	OtherGeneral Foreman	OtherGeneral Foreman		280	N			
+H20020	Position(직책)	E102	454	OtherHot Mill Group Foreman	OtherHot Mill Group Foreman		280	N			
+H20020	Position(직책)	E102	455	OtherHot Mill Team Leader	OtherHot Mill Team Leader		280	N			
+H20020	Position(직책)	E102	456	OtherHR Administrative Support Team Leader	OtherHR Administrative Support Team Leader		280	N			
+H20020	Position(직책)	E102	457	OtherInformation Technology Team Leader	OtherInformation Technology Team Leader		280	N			
+H20020	Position(직책)	E102	458	OtherPlanning Team Leader	OtherPlanning Team Leader		280	N			
+H20020	Position(직책)	E102	459	OtherProduct Quality Team Leader	OtherProduct Quality Team Leader		280	N			
+H20020	Position(직책)	E102	460	OtherProduct Unit Manager	OtherProduct Unit Manager		280	N			
+H20020	Position(직책)	E102	461	OtherProduction Planning Team Leader	OtherProduction Planning Team Leader		280	N			
+H20020	Position(직책)	E102	462	OtherQuality Assurance Team Leader	OtherQuality Assurance Team Leader		280	N			
+H20020	Position(직책)	E102	463	OtherQualtiy Management Team Leader for ISO	OtherQualtiy Management Team Leader for ISO		280	N			
+H20020	Position(직책)	E102	464	OtherSafety Environment Team Leader	OtherSafety Environment Team Leader		280	N			
+H20020	Position(직책)	E102	465	OtherTeam head	OtherTeam head		280	N			
+H20020	Position(직책)	E102	466	OtherUnit manager	OtherUnit manager		280	N			
+H20020	Position(직책)	E102	467	PackagingAdmin. Operator	PackagingAdmin. Operator		280	N			
+H20020	Position(직책)	E102	468	PackagingEHS Operator	PackagingEHS Operator		280	N			
+H20020	Position(직책)	E102	469	PackagingIncomingInspection.	PackagingIncomingInspection.		280	N			
+H20020	Position(직책)	E102	470	PackagingPacking	PackagingPacking		280	N			
+H20020	Position(직책)	E102	471	PackagingPacking Team Leader	PackagingPacking Team Leader		280	N			
+H20020	Position(직책)	E102	472	PackagingQuality Operator	PackagingQuality Operator		280	N			
+H20020	Position(직책)	E102	473	Packing & Shipping Specialist	Packing & Shipping Specialist		280	N			
+H20020	Position(직책)	E102	474	Packing Job	Packing Job		280	N			
+H20020	Position(직책)	E102	475	Packing LeaderTeam Leader	Packing LeaderTeam Leader		280	N			
+H20020	Position(직책)	E102	476	Packing material management, Sikd & Pallet shop	Packing material management, Sikd & Pallet shop		280	N			
+H20020	Position(직책)	E102	477	PC Support Specialist	PC Support Specialist		280	N			
+H20020	Position(직책)	E102	478	Planning & Metal Purchasing DirectorSenior Manager	Planning & Metal Purchasing DirectorSenior Manager		280	N			
+H20020	Position(직책)	E102	479	Planning & Metal Purchasing Managing DirectorSenior Manager	Planning & Metal Purchasing Managing DirectorSenior Manager		280	N			
+H20020	Position(직책)	E102	480	Preform shopOperator	Preform shopOperator		280	N			
+H20020	Position(직책)	E102	481	Process & Quality management	Process & Quality management		280	N			
+H20020	Position(직책)	E102	482	Process Design	Process Design		280	N			
+H20020	Position(직책)	E102	483	Process Excellence ManagerTeam Head	Process Excellence ManagerTeam Head		280	N			
+H20020	Position(직책)	E102	484	Process Leader	Process Leader		280	Y			
+H20020	Position(직책)	E102	485	Process ManagerTeam Head	Process ManagerTeam Head		280	N			
+H20020	Position(직책)	E102	486	Process Specialist	Process Specialist		280	N			
+H20020	Position(직책)	E102	487	Production control	Production control		280	N			
+H20020	Position(직책)	E102	488	Project Manager	Project Manager		280	Y			
+H20020	Position(직책)	E102	489	Pusher.Technician	Pusher.Technician		280	N			
+H20020	Position(직책)	E102	490	Q LEADER	Q LEADER		280	N			
+H20020	Position(직책)	E102	491	QM ManagerTeam Head	QM ManagerTeam Head		280	N			
+H20020	Position(직책)	E102	492	QUALITY	QUALITY		280	N			
+H20020	Position(직책)	E102	493	Quality & Coil cooling yard ManagementForeman	Quality & Coil cooling yard ManagementForeman		280	N			
+H20020	Position(직책)	E102	494	Quality & Process control	Quality & Process control		280	N			
+H20020	Position(직책)	E102	495	Quality Analysis	Quality Analysis		280	N			
+H20020	Position(직책)	E102	496	Quality CoordinatorForeman	Quality CoordinatorForeman		280	N			
+H20020	Position(직책)	E102	497	Qual Engineer	Qual Engineer		280	N			
+H20020	Position(직책)	E102	498	Quality Management Team Leader	Quality Management Team Leader		280	N			
+H20020	Position(직책)	E102	499	Quality of Cold Rolled Product	Quality of Cold Rolled Product		280	N			
+H20020	Position(직책)	E102	500	Quality/ Inventory	Quality/ Inventory		280	N			
+H20020	Position(직책)	E102	501	Quintiq Project Manager	Quintiq Project Manager		280	N			
+H20020	Position(직책)	E102	502	Receptionist	Receptionist		280	Y			
+H20020	Position(직책)	E102	503	Recycle project Engineering leader	Recycle project Engineering leader		280	N			
+H20020	Position(직책)	E102	504	RecycleRecycle	RecycleRecycle		280	N			
+H20020	Position(직책)	E102	505	RecycleSupport Charging Work	RecycleSupport Charging Work		280	N			
+H20020	Position(직책)	E102	506	Recycling Project Electrical Engineering Leader	Recycling Project Electrical Engineering Leader		280	N			
+H20020	Position(직책)	E102	507	Recycling Project Operations Leader	Recycling Project Operations Leader		280	N			
+H20020	Position(직책)	E102	508	Regional CI Manager	Regional CI Manager		280	N			
+H20020	Position(직책)	E102	509	Regional EHS Manager	Regional EHS Manager		280	N			
+H20020	Position(직책)	E102	510	Regional Reliability Manager	Regional Reliability Manager		280	N			
+H20020	Position(직책)	E102	511	Regional Sales Manager	Regional Sales Manager		280	N			
+H20020	Position(직책)	E102	512	Sr Relib Engineer	Sr Relib Engineer		280	N			
+H20020	Position(직책)	E102	513	Reliability manager	Reliability manager		280	N			
+H20020	Position(직책)	E102	514	Remelt Manufacturing Unit ManagerUnit Manager	Remelt Manufacturing Unit ManagerUnit Manager		280	N			
+H20020	Position(직책)	E102	515	REMELT process	REMELT process		280	N			
+H20020	Position(직책)	E102	516	Reserve force Commander	Reserve force Commander		280	N			
+H20020	Position(직책)	E102	517	Resource management	Resource management		280	N			
+H20020	Position(직책)	E102	518	RG#3,#4,#5Operator	RG#3,#4,#5Operator		280	N			
+H20020	Position(직책)	E102	519	RG#5Operator	RG#5Operator		280	N			
+H20020	Position(직책)	E102	520	RGChock	RGChock		280	N			
+H20020	Position(직책)	E102	521	RGRoll관리	RGRoll Management		280	N			
+H20020	Position(직책)	E102	522	RG베어링세척	RG Bearing Clenaing		280	N			
+H20020	Position(직책)	E102	523	Rolling & Finishing Operations Manager	Rolling & Finishing Operations Manager		280	N			
+H20020	Position(직책)	E102	524	Rolling Manufacturing Unit ManagerUnit Manager	Rolling Manufacturing Unit ManagerUnit Manager		280	N			
+H20020	Position(직책)	E102	525	Safety	Safety		280	N			
+H20020	Position(직책)	E102	526	Safty Cordinator	Safty Cordinator		280	N			
+H20020	Position(직책)	E102	527	ScalperElectronic Maintenance	ScalperElectronic Maintenance		280	N			
+H20020	Position(직책)	E102	528	ScalperInspection	ScalperInspection		280	N			
+H20020	Position(직책)	E102	529	ScalperMachinery Maintenance	ScalperMachinery Maintenance		280	N			
+H20020	Position(직책)	E102	530	ScalperShop Floor ManagementForeman	ScalperShop Floor ManagementForeman		280	N			
+H20020	Position(직책)	E102	531	Scheduler	Scheduler		280	N			
+H20020	Position(직책)	E102	532	Senior Manager	Senior Manager		280	N			
+H20020	Position(직책)	E102	533	Senior Mechanical Engineer	Senior Mechanical Engineer		280	N			
+H20020	Position(직책)	E102	534	Slitter1Operator	Slitter1Operator		280	N	Slitter1		
+H20020	Position(직책)	E102	535	Slitter1Shop Floor ManagementForeman	Slitter1Shop Floor ManagementForeman		280	N	Slitter1		
+H20020	Position(직책)	E102	536	Slitter2Main Operator	Slitter2Main Operator		280	N	Slitter2		
+H20020	Position(직책)	E102	537	Slitter2Sub Operator	Slitter2Sub Operator		280	N	Slitter2		
+H20020	Position(직책)	E102	538	Slitter3Assistant	Slitter3Assistant		280	N	Slitter3		
+H20020	Position(직책)	E102	539	Slitter3Operator	Slitter3Operator		280	N	Slitter3		
+H20020	Position(직책)	E102	540	Slitter4Operator	Slitter4Operator		280	N	Slitter4		
+H20020	Position(직책)	E102	541	Specialties Products Develop Leader	Specialties Products Develop Leader		280	N			
+H20020	Position(직책)	E102	542	Spool회수Spool회수	Spool Collect Spool Collect		280	N			
+H20020	Position(직책)	E102	543	Sr. IT Business Analyst	Sr. IT Business Analyst		280	N			
+H20020	Position(직책)	E102	544	Sr. IT Infrastructure Specialist	Sr. IT Infrastructure Specialist		280	N			
+H20020	Position(직책)	E102	545	Sr.Accounting Specialist	Sr.Accounting Specialist		280	N			
+H20020	Position(직책)	E102	546	Sr.Accounting SpecialistTeam Leader	Sr.Accounting SpecialistTeam Leader		280	N			
+H20020	Position(직책)	E102	547	Sr Electrical Engineer	Sr Electrical Engineer		280	Y			
+H20020	Position(직책)	E102	548	Sr.Electrical EngineerTeam Leader	Sr.Electrical EngineerTeam Leader		280	N			
+H20020	Position(직책)	E102	549	Sr.Eng & MTC Engineer	Sr.Eng & MTC Engineer		280	N			
+H20020	Position(직책)	E102	550	Sr.IT System Analyst	Sr.IT System Analyst		280	N			
+H20020	Position(직책)	E102	551	Sr Mechanical Engineer	Sr Mechanical Engineer		280	Y			
+H20020	Position(직책)	E102	552	Sr.Process EngineerTeam Leader	Sr.Process EngineerTeam Leader		280	N			
+H20020	Position(직책)	E102	553	Sr.Specialist of BMS & CI	Sr.Specialist of BMS & CI		280	N			
+H20020	Position(직책)	E102	554	Sr.Technologist	Sr.Technologist		280	N			
+H20020	Position(직책)	E102	555	Talent Management Specialist	Talent Management Specialist		280	Y			
+H20020	Position(직책)	E102	556	Team Head	Team Head		280	N			
+H20020	Position(직책)	E102	557	TL 1Main Operator	TL 1Main Operator		280	N			
+H20020	Position(직책)	E102	558	TL 1Shop Floor ManagementForeman	TL 1Shop Floor ManagementForeman		280	N			
+H20020	Position(직책)	E102	559	TLProcess Inspection	TLProcess Inspection		280	N			
+H20020	Position(직책)	E102	560	TLQuality ManagementForeman	TLQuality ManagementForeman		280	N			
+H20020	Position(직책)	E102	561	TreasurerTeam Head	TreasurerTeam Head		280	N			
+H20020	Position(직책)	E102	562	Universal Shop Floor ManagementForeman	Universal Shop Floor ManagementForeman		280	Y			
+H20020	Position(직책)	E102	563	Utilitiesequipment	Utilitiesequipment		280	N			
+H20020	Position(직책)	E102	564	UtilitiesFork truck Maintenance	UtilitiesFork truck Maintenance		280	N			
+H20020	Position(직책)	E102	565	UtilitiesMachinery Maintenance	UtilitiesMachinery Maintenance		280	N			
+H20020	Position(직책)	E102	566	UtilitiesMachinery MaintenanceForeman	UtilitiesMachinery MaintenanceForeman		280	N			
+H20020	Position(직책)	E102	567	UtilitiesShop Floor ManagementForeman	UtilitiesShop Floor ManagementForeman		280	N			
+H20020	Position(직책)	E102	568	UtilitiesUtility Maintenance	UtilitiesUtility Maintenance		280	N			
+H20020	Position(직책)	E102	569	Utility Engineer	Utility Engineer		280	N			
+H20020	Position(직책)	E102	570	Utility.Technician	Utility.Technician		280	N			
+H20020	Position(직책)	E102	571	utility운전.정수장	Utility Operation. 		280	N			
+H20020	Position(직책)	E102	572	Utility정비.영선	Utility Maintenance.영선		280	N			
+H20020	Position(직책)	E102	573	Vice PresidentSenior Manager	Vice PresidentSenior Manager		280	N			
+H20020	Position(직책)	E102	574	Whole plantProduct Inspection	Whole plantProduct Inspection		280	N			
+H20020	Position(직책)	E102	575	Whole plantProduct InspectionForeman	Whole plantProduct InspectionForeman		280	N			
+H20020	Position(직책)	E102	576	Whole plantProduct InspectionGeneral Foreman	Whole plantProduct InspectionGeneral Foreman		280	N			
+H20020	Position(직책)	E102	577	woodworking plant	woodworking plant		280	N			
+H20020	Position(직책)	E102	578	가공Fabrication	Fabrication		280	N			
+H20020	Position(직책)	E102	579	검사Inspection	Inspection		280	N			
+H20020	Position(직책)	E102	580	보일러Boiler	Boiler		280	N			
+H20020	Position(직책)	E102	581	환경	Environment		280	N			
+H20020	Position(직책)	E102	582	Director Comms & Govt Affairs	Director Comms & Govt Affairs		300	Y			
+H20020	Position(직책)	E102	583	Sr Business Development Analyst	Sr Business Development Analyst		310	Y			
+H20020	Position(직책)	E102	584	Scrap Procurement Leader-Domestic&Japan	Scrap Procurement Leader-Domestic&Japan		320	Y			
+H20020	Position(직책)	E102	585	Scrap Procurement Leader–SEA&Oceania	Scrap Procurement Leader–SEA&Oceania		330	Y			
+H20020	Position(직책)	E102	586	Metal Procurement Leader-Prime&SI	Metal Procurement Leader-Prime&SI		340	Y			
+H20020	Position(직책)	E102	587	Sr Scrap Buyer	Sr Scrap Buyer		350	Y			
+H20020	Position(직책)	E102	588	Scrap Buyer	Scrap Buyer		360	Y			
+H20020	Position(직책)	E102	589	Metal Procurement Coordinator	Metal Procurement Coordinator		370	Y			
+H20020	Position(직책)	E102	590	Novelis China Managing Director	Novelis China Managing Director		380	Y			
+H20020	Position(직책)	E102	591	Specialties(China) Manager	Specialties(China) Manager		390	Y			
+H20020	Position(직책)	E102	592	Specialties Sales&Marketing Executive Director	Specialties Sales&Marketing Executive Director		400	Y			
+H20020	Position(직책)	E102	593	Light Gauge Sales&Marketing Sr Manager	Light Gauge Sales&Marketing Sr Manager		410	Y			
+H20020	Position(직책)	E102	594	Customer Support Representative	Customer Support Representative		420	Y			
+H20020	Position(직책)	E102	595	ACE Sales&Marketing Sr Manager	ACE Sales&Marketing Sr Manager		430	Y			
+H20020	Position(직책)	E102	596	Domestic ACE Sales&Marketing Leader	Domestic ACE Sales&Marketing Leader		440	Y			
+H20020	Position(직책)	E102	597	Trans&Plate Sales&Marketing Sr Manager	Trans&Plate Sales&Marketing Sr Manager		450	Y			
+H20020	Position(직책)	E102	598	Domestic TP Sales&Marketing Leader	Domestic TP Sales&Marketing Leader		460	Y			
+H20020	Position(직책)	E102	599	CGP Sales&Marketing Sr Manager	CGP Sales&Marketing Sr Manager		470	Y			
+H20020	Position(직책)	E102	600	Domestic CG Sales&Marketing Leader	Domestic CG Sales&Marketing Leader		480	Y			
+H20020	Position(직책)	E102	601	Export CG Sales&Marketing Leader	Export CG Sales&Marketing Leader		490	Y			
+H20020	Position(직책)	E102	602	Specialties Analyst	Specialties Analyst		500	Y			
+H20020	Position(직책)	E102	603	Domestic LG Sales&Marketing Leader	Domestic LG Sales&Marketing Leader		510	Y			
+H20020	Position(직책)	E102	604	Metal Planning Analyst	Metal Planning Analyst		520	Y			
+H20020	Position(직책)	E102	605	Planning & Excellence Lead	Planning & Excellence Lead		530	Y			
+H20020	Position(직책)	E102	606	Sr Manager Engineering	Sr Manager Engineering		540	Y			
+H20020	Position(직책)	E102	607	VP Operations	VP Operations		550	Y			
+H20020	Position(직책)	E102	608	Sr Manager Quality	Sr Manager Quality		551	Y			
+H20020	Position(직책)	E102	609	Quality Coordinator	Quality Coordinator		552	Y			
+H20020	Position(직책)	E102	610	Maintenance Lead	Maintenance Lead		560	Y	Maintenance		
+H20020	Position(직책)	E102	611	Operations Lead	Operations Lead		570	Y			
+H20020	Position(직책)	E102	612	Manager Accounting	Manager Accounting		580	Y			
+H20020	Position(직책)	E102	613	Manager Tax	Manager Tax		590	Y			
+H20020	Position(직책)	E102	614	EHS Coordinator	EHS Coordinator		600	Y			
+H20020	Position(직책)	E102	615	Accountant	Accountant		610	Y			
+H20020	Position(직책)	E102	616	Associate Accountant	Associate Accountant		620	Y			
+H20020	Position(직책)	E102	617	Tax Analyst	Tax Analyst		630	Y			
+H20020	Position(직책)	E102	618	Manager Rewards & HRIS	Manager Rewards & HRIS		640	Y			
+H20020	Position(직책)	E102	619	Rewards & HRIS Analyst	Rewards & HRIS Analyst		650	Y			
+H20020	Position(직책)	E102	620	Rewards & HRIS Specialist	Rewards & HRIS Specialist		660	Y			
+H20020	Position(직책)	E102	621	Talent Management Manager	Talent Management Manager		670	Y			
+H20020	Position(직책)	E102	623	HR & LR Manager	HR & LR Manager		690	Y			
+H20020	Position(직책)	E102	624	HR & LR Lead	HR & LR Lead		700	Y			
+H20020	Position(직책)	E102	625	Demand Coordinator	Demand Coordinator		710	Y			
+H20020	Position(직책)	E102	626	Export TP Sales&Marketing Leader	Export TP Sales&Marketing Leader		720	Y			
+H20020	Position(직책)	E102	627	Senior Manager Engineering	Senior Manager Engineering		730	Y			
+H20020	Position(직책)	E102	628	Hot Mill Roll Shop Team Leader	Hot Mill Roll Shop Team Leader		628	Y			
+H20020	Position(직책)	E102	629	Hot Mill Engineering Team Leader	Hot Mill Engineering Team Leader		629	Y			
+H20020	Position(직책)	E102	630	Remelt Manufacturing Unit Manager	Remelt Manufacturing Unit Manager		630	Y			
+H20020	Position(직책)	E102	631	Manager Hot Mill	Manager Hot Mill		631	Y			
+H20020	Position(직책)	E102	632	VP Human Resources	VP Human Resources		740	Y			
+H20020	Position(직책)	E102	633	Director CI&Quality	Director CI&Quality		750	Y			
+H20020	Position(직책)	E102	634	Manager SEA Specialties	Manager SEA Specialties		760	Y			
+H20020	Position(직책)	E102	635	Operations Leader	Operations Leader		770	Y			
+H20020	Position(직책)	E102	636	Continuous Improvement Coordinator	Continuous Improvement Coordinator		780	Y			
+H20020	Position(직책)	E102	637	Lead Civil Engineer	Lead Civil Engineer		790	Y			
+H20020	Position(직책)	E102	638	Sourcing Lead	Sourcing Lead		800	Y			
+H20020	Position(직책)	E102	639	Engineering Floor-line Leader	Engineering Floor-line Leader		810	Y			
+H20020	Position(직책)	E102	640	FM Operator. Forman	FM Operator. Forman		820	Y			
+H20020	Position(직책)	E102	641	Annealing Furnace. Forman	Annealing Furnace. Forman		830	Y			
+H20020	Position(직책)	E102	642	Buyer	Buyer		840	Y			
+H20020	Position(직책)	E102	643	Metal Procurement Leader	Metal Procurement Leader		850	Y			
+H20020	Position(직책)	E102	644	Project Coordinator	Project Coordinator		860	Y			
+H20020	Position(직책)	E102	645	Manager Recycling Quality	Manager Recycling Quality		870	Y			
+H20020	Position(직책)	E102	646	AF Project Leader	AF Project Leader		880	Y			
+H20020	Position(직책)	E102	647	AF Project Member	AF Project Member		890	Y			
+H20020	Position(직책)	E102	648	Safety Lead	Safety Lead		900	Y			
+H20020	Position(직책)	E102	649	Director EHS Novelis Asia	Director EHS Novelis Asia		910	Y			
+H20020	Position(직책)	E102	650	Sr.Manager Environment & Health	Sr.Manager Environment & Health		920	Y			
+H20020	Position(직책)	E102	651	Sr Manager Human Resources	Sr Manager Human Resources		930	Y			
+H20020	Position(직책)	E102	652	Sr Manager Sales	Sr Manager Sales		940	Y			
+H20020	Position(직책)	E102	653	Technical Service Rep	Technical Service Rep		950	Y			
+H20020	Position(직책)	E102	654	Sr Technical Service Rep	Sr Technical Service Rep		960	Y			
+H20020	Position(직책)	E102	655	Labor Relations Spc	Labor Relations Spc		970	Y			
+H20020	Position(직책)	E102	656	EDP Mech Engineer	EDP Mech Engineer		980	Y			
+H20020	Position(직책)	E102	657	EDP Elect Engineer	EDP Elect Engineer		990	Y			
+H20020	Position(직책)	E102	658	Electrical Technician	Electrical Technician		1000	Y			
+H20020	Position(직책)	E102	659	Mechanical Technician	Mechanical Technician		1010	Y			
+H20020	Position(직책)	E102	660	Sr Process Engineer	Sr Process Engineer		1020	Y			
+H20020	Position(직책)	E102	661	Diretor Specialties Sales	Diretor Specialties Sales		1030	Y			
+H20020	Position(직책)	E102	662	Sales Analyst	Sales Analyst		1040	Y			
+H20020	Position(직책)	E102	663	Manager Product Development	Manager Product Development		1050	Y			
+H20020	Position(직책)	E102	664	Sr. Manager Light Gauge	Sr. Manager Light Gauge		1060	Y			
+H20020	Position(직책)	E102	665	Sr. Manager Transportation & Plate	Sr. Manager Transportation & Plate		1070	Y			
+H20020	Position(직책)	E102	666	Sr. Manager Construction & General Purpose	Sr. Manager Construction & General Purpose		1080	Y			
+H20020	Position(직책)	E102	667	Operations Analysis Leader	Operations Analysis Leader		1090	Y			
+H20020	Position(직책)	E102	668	Director Metal Sourcing	Director Metal Sourcing		1100	Y			
+H20020	Position(직책)	E102	669	Manager Scrap Procurement	Manager Scrap Procurement		1110	Y			
+H20020	Position(직책)	E102	670	Metal Procurement Analyst	Metal Procurement Analyst		1120	Y			
+H20020	Position(직책)	E102	671	Metal Procurement Lead	Metal Procurement Lead		1130	Y			
+H20020	Position(직책)	E102	672	Business Development Analyst	Business Development Analyst		1140	Y			
+H20020	Position(직책)	E102	673	Associate Financial Analyst	Associate Financial Analyst		1150	Y			
+H20020	Position(직책)	E102	674	Supply Chain Leader	Supply Chain Leader		1160	Y			
+H20020	Position(직책)	E102	675	Associate Supply Chain Leader	Associate Supply Chain Leader		1170	Y			
+H20020	Position(직책)	E102	676	Assoc Supply Chain Specialist	Assoc Supply Chain Specialist		1180	Y			
+H20020	Position(직책)	E102	677	Talent Management Team Leader	Talent Management Team Leader		1190	Y			
+H20020	Position(직책)	E102	678	Labor Relations Team Leader	Labor Relations Team Leader		1200	Y			
+H20020	Position(직책)	E102	679	Labor Relations Coordinator	Labor Relations Coordinator		1210	Y			
+H20020	Position(직책)	E102	680	Union President	Union President		1220	Y			
+H20020	Position(직책)	E102	681	Union Administrator	Union Administrator		1230	Y			
+H20020	Position(직책)	E102	682	Mechanical Engineering Leader	Mechanical Engineering Leader		1240	Y			
+H20020	Position(직책)	E102	683	EHS Engineer	EHS Engineer		1250	Y			
+H20020	Position(직책)	E102	684	Sr Manager Sales	Sr Manager Sales		1260	Y			
+H20020	Position(직책)	E102	685	Recycling Operation Leader	Recycling Operation Leader		1270	Y			
+H20020	Position(직책)	E102	686	Recycling Engineering Leader	Recycling Engineering Leader		1280	Y			
+H20020	Position(직책)	E102	687	Recycling Process Leader	Recycling Process Leader		1290	Y			
+H20020	Position(직책)	E102	688	Lead Elect Engineer	Lead Elect Engineer		1320	Y			
+H20020	Position(직책)	E102	689	Lead Mechanical Engineer	Lead Mechanical Engineer		1310	Y			
+H20020	Position(직책)	E102	690	Customer Service Representativ	Customer Service Representativ		1330	Y			
+H20020	Position(직책)	E102	691	Customer Service Leader	Customer Service Leader		1340	Y			
+H20020	Position(직책)	E102	692	Treasury Leader	Treasury Leader		1350	Y			
+H20020	Position(직책)	E102	693	Quality Coordinator	Quality Coordinator		1360	N			
+H20020	Position(직책)	E102	694	TL2Foreman	TL2Foreman		1370	Y			
+H20020	Position(직책)	E102	695	TL1Foreman	TL1Foreman		1380	Y			
+H20020	Position(직책)	E102	696	Coil Handling Operator	Coil Handling Operator		1390	Y			
+H20020	Position(직책)	E102	697	Mechanical Operator	Mechanical Operator		1400	Y			
+H20020	Position(직책)	E102	698	Maintenance Operator	Maintenance Operator		1410	Y			
+H20020	Position(직책)	E102	699	Electrical Operator	Electrical Operator		1420	Y			
+H20020	Position(직책)	E102	700	EDP Process Engineer	EDP Process Engineer		1430	Y			
+H20020	Position(직책)	E102	701	Forklift Driver	Forklift Driver		1431	Y			
+H20020	Position(직책)	E102	702	EDP Autom Engineer	EDP Autom Engineer		1432	Y			
+H20020	Position(직책)	E102	703	EDP Qual Engineer	EDP Qual Engineer		1433	Y			
+H20020	Position(직책)	E102	704	EDP EHS Engineer	EDP EHS Engineer		1434	Y			
+H20020	Position(직책)	E102	705	Manager Customer Service	Manager Customer Service		1435	Y			
+H20020	Position(직책)	E102	706	Maintenance Planner	Maintenance Planner		1436	Y			
+H20020	Position(직책)	E102	707	Universal Shop Operator	Universal Shop Operator		1437	Y			
+H20020	Position(직책)	E102	708	Director Fin Planning&Analysis	Director Fin Planning&Analysis		1438	Y			
+H20020	Position(직책)	E102	709	VP Specialties Sales	VP Specialties Sales		1439	Y			
+H20020	Position(직책)	E102	711	Specialties(Thailand) Manager	Specialties(Thailand) Manager		1441	Y			
+H20020	Position(직책)	E102	714	Assoc Accountant	Assoc Accountant		1444	Y			
+H20020	Position(직책)	E102	715	Assoc Business Analyst	Assoc Business Analyst		1445	Y			
+H20020	Position(직책)	E102	716	Assoc CI Leader	Assoc CI Leader		1446	Y			
+H20020	Position(직책)	E102	717	Assoc Financial Analyst	Assoc Financial Analyst		1447	Y			
+H20020	Position(직책)	E102	718	Assoc IT Business Sys Analyst	Assoc IT Business Sys Analyst		1448	Y			
+H20020	Position(직책)	E102	719	Assoc Labor Relat Specialist	Assoc Labor Relat Specialist		1449	Y			
+H20020	Position(직책)	E102	720	Assoc Operations Leader	Assoc Operations Leader		1450	Y			
+H20020	Position(직책)	E102	721	Assoc Sales Representative	Assoc Sales Representative		1451	Y			
+H20020	Position(직책)	E102	722	Assoc Supply Chain Leader	Assoc Supply Chain Leader		1452	Y			
+H20020	Position(직책)	E102	723	Assoc Supply Chain Specialist	Assoc Supply Chain Specialist		1453	Y			
+H20020	Position(직책)	E102	724	Assoc Tax Analyst	Assoc Tax Analyst		1454	Y			
+H20020	Position(직책)	E102	725	Assoc Treasury Leader	Assoc Treasury Leader		1455	Y			
+H20020	Position(직책)	E102	726	Assoc Treasury Specialist	Assoc Treasury Specialist		1456	Y			
+H20020	Position(직책)	E102	727	Auditor	Auditor		1457	Y			
+H20020	Position(직책)	E102	730	Communications Specialist	Communications Specialist		1460	Y			
+H20020	Position(직책)	E102	731	Credit Analyst	Credit Analyst		1461	Y			
+H20020	Position(직책)	E102	732	Credit Leader	Credit Leader		1462	Y			
+H20020	Position(직책)	E102	733	Director Assist Generl Counsel	Director Assist Generl Counsel		1463	Y			
+H20020	Position(직책)	E102	734	Director Comms & Govt Affairs	Director Comms & Govt Affairs		1464	Y			
+H20020	Position(직책)	E102	735	Director Continuous Improvemen	Director Continuous Improvemen		1465	Y			
+H20020	Position(직책)	E102	736	Director EHS	Director EHS		1466	Y			
+H20020	Position(직책)	E102	737	Director Fin Planning&Analysis	Director Fin Planning&Analysis		1467	Y			
+H20020	Position(직책)	E102	738	Director Informaton Technology	Director Informaton Technology		1468	Y			
+H20020	Position(직책)	E102	739	Director Rolling Project	Director Rolling Project		1469	Y			
+H20020	Position(직책)	E102	740	Director Sourcing	Director Sourcing		1470	Y			
+H20020	Position(직책)	E102	741	Director Strategy	Director Strategy		1471	Y			
+H20020	Position(직책)	E102	742	Director Supply Chain	Director Supply Chain		1472	Y			
+H20020	Position(직책)	E102	743	Director Technology Solu Centr	Director Technology Solu Centr		1473	Y			
+H20020	Position(직책)	E102	744	Director Specialities Sales	Director Specialities Sales		1474	Y			
+H20020	Position(직책)	E102	745	EDP Materials Technologist	EDP Materials Technologist		1475	Y			
+H20020	Position(직책)	E102	746	EDP Mtlurgy Technologist	EDP Mtlurgy Technologist		1476	Y			
+H20020	Position(직책)	E102	747	EMRA Leader	EMRA Leader		1477	Y			
+H20020	Position(직책)	E102	748	Executive Assistant	Executive Assistant		1478	Y			
+H20020	Position(직책)	E102	749	Finance Leader	Finance Leader		1479	Y			
+H20020	Position(직책)	E102	750	Information Technology Lead	Information Technology Lead		1480	Y			
+H20020	Position(직책)	E102	751	IT Business System Analyst	IT Business System Analyst		1481	Y			
+H20020	Position(직책)	E102	752	IT Security Lead	IT Security Lead		1482	Y			
+H20020	Position(직책)	E102	753	Labor Relations Lead	Labor Relations Lead		1483	Y			
+H20020	Position(직책)	E102	754	Labor Relations Leader	Labor Relations Leader		1484	Y			
+H20020	Position(직책)	E102	755	Lead Autom Engineer	Lead Autom Engineer		1485	Y			
+H20020	Position(직책)	E102	756	Lead Chemical Technologist	Lead Chemical Technologist		1486	Y			
+H20020	Position(직책)	E102	757	Lead Civil Engineer	Lead Civil Engineer		1487	Y			
+H20020	Position(직책)	E102	758	Lead Customer Service Represen	Lead Customer Service Represen		1488	Y			
+H20020	Position(직책)	E102	759	Lead EHS Engineer	Lead EHS Engineer		1489	Y			
+H20020	Position(직책)	E102	761	Lead Qual Engineer	Lead Qual Engineer		1491	Y			
+H20020	Position(직책)	E102	762	Lead Tech Serv Rep	Lead Tech Serv Rep		1492	Y			
+H20020	Position(직책)	E102	763	Manager Accounting	Manager Accounting		1493	Y			
+H20020	Position(직책)	E102	764	Manager Business Development	Manager Business Development		1494	Y			
+H20020	Position(직책)	E102	765	Manager Cold Mill	Manager Cold Mill		1495	Y			
+H20020	Position(직책)	E102	766	Manager Communications	Manager Communications		1496	Y			
+H20020	Position(직책)	E102	767	Manager Demand	Manager Demand		1497	Y			
+H20020	Position(직책)	E102	768	Manager EHS	Manager EHS		1498	Y			
+H20020	Position(직책)	E102	769	Manager EMRA	Manager EMRA		1499	Y			
+H20020	Position(직책)	E102	770	Manager Finishing	Manager Finishing		1500	Y			
+H20020	Position(직책)	E102	771	Manager Hot Mill	Manager Hot Mill		1501	Y			
+H20020	Position(직책)	E102	772	Manager IT Business Systems	Manager IT Business Systems		1502	Y			
+H20020	Position(직책)	E102	773	Manager IT Infrastructure	Manager IT Infrastructure		1503	Y			
+H20020	Position(직책)	E102	774	Manager Logistics	Manager Logistics		1504	Y			
+H20020	Position(직책)	E102	775	Manager Plant	Manager Plant		1505	Y			
+H20020	Position(직책)	E102	776	Manager Quality	Manager Quality		1506	Y			
+H20020	Position(직책)	E102	777	Manager Recycling	Manager Recycling		1507	Y			
+H20020	Position(직책)	E102	778	Manager Reg & Plant IT Apps	Manager Reg & Plant IT Apps		1508	Y			
+H20020	Position(직책)	E102	779	Manager Remelt	Manager Remelt		1509	Y			
+H20020	Position(직책)	E102	780	Manager Risk Management	Manager Risk Management		1510	Y			
+H20020	Position(직책)	E102	781	Manager Sales	Manager Sales		1511	Y			
+H20020	Position(직책)	E102	782	Manager Supply Chain	Manager Supply Chain		1512	Y			
+H20020	Position(직책)	E102	783	Manager Talent Management	Manager Talent Management		1513	Y			
+H20020	Position(직책)	E102	784	Manager Technical	Manager Technical		1514	Y			
+H20020	Position(직책)	E102	785	Material Handler	Material Handler		1515	Y			
+H20020	Position(직책)	E102	786	Operations Leader	Operations Leader		1516	Y			
+H20020	Position(직책)	E102	787	Operations Planning Analyst	Operations Planning Analyst		1517	Y			
+H20020	Position(직책)	E102	788	Procurement Lead	Procurement Lead		1518	Y			
+H20020	Position(직책)	E102	789	Prod Process & Qual Leader	Prod Process & Qual Leader		1519	Y			
+H20020	Position(직책)	E102	790	Recycling Operations Leader	Recycling Operations Leader		1520	Y			
+H20020	Position(직책)	E102	791	Region Controller	Region Controller		1521	Y			
+H20020	Position(직책)	E102	792	Regional Metal Leader	Regional Metal Leader		1522	Y			
+H20020	Position(직책)	E102	793	Reliability Leader	Reliability Leader		1523	Y			
+H20020	Position(직책)	E102	794	Risk Management Analyst	Risk Management Analyst		1524	Y			
+H20020	Position(직책)	E102	795	Sales & Marketing Lead	Sales & Marketing Lead		1525	Y			
+H20020	Position(직책)	E102	796	Sales Leader	Sales Leader		1526	Y			
+H20020	Position(직책)	E102	797	Scrap Procurement Leader	Scrap Procurement Leader		1527	Y			
+H20020	Position(직책)	E102	798	Senior Manager FP&A	Senior Manager FP&A		1528	Y			
+H20020	Position(직책)	E102	799	Senior Manager Human Resources	Senior Manager Human Resources		1529	Y			
+H20020	Position(직책)	E102	800	Senior Manager Internal Audit	Senior Manager Internal Audit		1530	Y			
+H20020	Position(직책)	E102	801	Senior Manager Sales	Senior Manager Sales		1531	Y			
+H20020	Position(직책)	E102	802	Senior Manager Treasury	Senior Manager Treasury		1532	Y			
+H20020	Position(직책)	E102	803	Sr Technical Service Rep	Sr Technical Service Rep		1533	Y			
+H20020	Position(직책)	E102	804	Sourcing Coordinator	Sourcing Coordinator		1534	Y			
+H20020	Position(직책)	E102	805	Sourcing Leader	Sourcing Leader		1535	Y			
+H20020	Position(직책)	E102	806	Sr Accountant	Sr Accountant		1536	Y			
+H20020	Position(직책)	E102	807	Sr Business Analyst	Sr Business Analyst		1537	Y			
+H20020	Position(직책)	E102	808	Sr Buyer	Sr Buyer		1538	Y			
+H20020	Position(직책)	E102	809	Sr Customer Service Rep	Sr Customer Service Rep		1539	Y			
+H20020	Position(직책)	E102	810	Sr EHS Coordinator	Sr EHS Coordinator		1540	Y			
+H20020	Position(직책)	E102	811	Sr EHS Engineer	Sr EHS Engineer		1541	Y			
+H20020	Position(직책)	E102	812	Sr Elect Engineer	Sr Elect Engineer		1542	Y			
+H20020	Position(직책)	E102	813	Sr Maintenance Leader	Sr Maintenance Leader		1543	Y			
+H20020	Position(직책)	E102	814	Sr Manager CI	Sr Manager CI		1544	Y			
+H20020	Position(직책)	E102	815	Sr Manager EHS	Sr Manager EHS		1545	Y			
+H20020	Position(직책)	E102	816	Sr Manager Eng Technology	Sr Manager Eng Technology		1546	Y			
+H20020	Position(직책)	E102	817	Sr Manager HR & LR	Sr Manager HR & LR		1547	Y			
+H20020	Position(직책)	E102	818	Sr Manager Operations Planning	Sr Manager Operations Planning		1548	Y			
+H20020	Position(직책)	E102	819	Sr Manager Quality	Sr Manager Quality		1549	Y			
+H20020	Position(직책)	E102	820	Sr Manager Reliability	Sr Manager Reliability		1550	Y			
+H20020	Position(직책)	E102	821	Sr Manager Sales	Sr Manager Sales		1551	Y			
+H20020	Position(직책)	E102	822	Sr Manager ValueStream Finance	Sr Manager ValueStream Finance		1552	Y			
+H20020	Position(직책)	E102	823	Sr Material Handler	Sr Material Handler		1553	Y			
+H20020	Position(직책)	E102	824	Sr Mech Engineer	Sr Mech Engineer		1554	Y			
+H20020	Position(직책)	E102	825	Sr Metal Planner	Sr Metal Planner		1555	Y			
+H20020	Position(직책)	E102	826	Sr Metal Proc Coordinator	Sr Metal Proc Coordinator		1556	Y			
+H20020	Position(직책)	E102	827	Sr Operations Analyst	Sr Operations Analyst		1557	Y			
+H20020	Position(직책)	E102	828	Sr Qual Engineer	Sr Qual Engineer		1558	Y			
+H20020	Position(직책)	E102	829	Sr Rewards & HRIS Analyst	Sr Rewards & HRIS Analyst		1559	Y			
+H20020	Position(직책)	E102	830	Sr Sales Analyst	Sr Sales Analyst		1560	Y			
+H20020	Position(직책)	E102	831	Sr Sales Representative	Sr Sales Representative		1561	Y			
+H20020	Position(직책)	E102	832	Sr Supply Chain Specialist	Sr Supply Chain Specialist		1562	Y			
+H20020	Position(직책)	E102	833	Sr Traffic Coordinator	Sr Traffic Coordinator		1563	Y			
+H20020	Position(직책)	E102	834	Sr Treasury Specialist	Sr Treasury Specialist		1564	Y			
+H20020	Position(직책)	E102	835	Sr Logistics Coordinator	Sr Logistics Coordinator		1565	Y			
+H20020	Position(직책)	E102	836	Staff Materials Technologist	Staff Materials Technologist		1566	Y			
+H20020	Position(직책)	E102	837	Supply Chain Coordinator	Supply Chain Coordinator		1567	Y			
+H20020	Position(직책)	E102	838	SvcDesk & Desktop Adminstrator	SvcDesk & Desktop Adminstrator		1568	Y			
+H20020	Position(직책)	E102	839	SVP President Novelis Asia	SVP President Novelis Asia		1569	Y			
+H20020	Position(직책)	E102	840	Talent Management Leader	Talent Management Leader		1570	Y			
+H20020	Position(직책)	E102	841	Technical Leader	Technical Leader		1571	Y			
+H20020	Position(직책)	E102	842	Traffic Coordinator	Traffic Coordinator		1572	Y			
+H20020	Position(직책)	E102	843	VP Finance	VP Finance		1573	Y			
+H20020	Position(직책)	E102	844	VP Global Can Sales	VP Global Can Sales		1574	Y			
+H20020	Position(직책)	E102	845	VP Sales	VP Sales		1575	Y			
+H20020	Position(직책)	E102	846	Specialties(Austrailia) Manager	Specialties(Austrailia) Manager		1576	Y			
+H20020	Position(직책)	E102	847	Sr.Manager Demand	Sr.Manager Demand		1577	Y			
+H20020	Position(직책)	E102	848	Manager Recycling Strategy	Manager Recycling Strategy		1578	Y			
+H20020	Position(직책)	E102	849	Sr. Manager Operations Human Resources	Sr. Manager Operations Human Resources		1579	Y			
+H20020	Position(직책)	E102	850	General Service Leader	General Service Leader		1580	Y			
+H20020	Position(직책)	E102	851	General Service Specialist	General Service Specialist		1581	Y			
+H20020	Position(직책)	E102	852	Rewards & HRIS Leader	Rewards & HRIS Leader		1582	Y			
+H20020	Position(직책)	E102	853	Sr Manager IT Infra	Sr Manager IT Infra		1583	Y			
+H20020	Position(직책)	E102	854	Director Specialties Projects	Director Specialties Projects		1584	Y			
+H20020	Position(직책)	E102	855	Manager Business Strategy	Manager Business Strategy		1585	Y			
+H20020	Position(직책)	E102	856	Sr Business Strategy Analyst	Sr Business Strategy Analyst		1586	Y			
+H20020	Position(직책)	E102	857	Business Strategy Analyst	Business Strategy Analyst		1587	Y			
+H20020	Position(직책)	E102	859	Manager Light Gauge Sales	Manager Light Gauge Sales		1589	Y			
+H20020	Position(직책)	E102	860	Manager ACE Sales	Manager ACE Sales		1590	Y			
+H20020	Position(직책)	E102	861	FP&A Leader	FP&A Leader		1591	Y			
+H20020	Position(직책)	E102	862	ACE Sales Leader	ACE Sales Leader		1592	Y			
+H20020	Position(직책)	E102	863	Sales Leader	Sales Leader		1593	Y			
+H20020	Position(직책)	E102	864	Reliab Lead	Reliab Lead		1594	Y			
+H20020	Position(직책)	E102	865	Strategic Sourcing Leader	Strategic Sourcing Leader		1595	Y			
+H20020	Position(직책)	E102	866	Specialties Business development  Lead	Specialties Business development  Lead		1596	Y			
+H20020	Position(직책)	E102	867	Manager Specialties Sales	Manager Specialties Sales		1597	Y			
+H20020	Position(직책)	E102	868	Technical Service Leader	Technical Service Leader		1598	Y			
+H20020	Position(직책)	E102	869	Associate Sales Representative	Associate Sales Representative		1599	Y			
+H20020	Position(직책)	E102	870	Financial Analyst	Financial Analyst		1600	Y			
+H20020	Position(직책)	E102	871	FP&A Manager	FP&A Manager		1601	Y			
+H20020	Position(직책)	E102	872	Commercial Data & Analysis Lead	Commercial Data & Analysis Lead		1602	Y			
+H20020	Position(직책)	E102	873	Manager New Product Markting Specialties Sales	Manager New Product Markting Specialties Sales		1603	Y			
+H20020	Position(직책)	E102	874	Product Development Lead	Product Development Lead		1604	Y			
+H20020	Position(직책)	E102	875	Automotive Program Manager	Automotive Program Manager		1605	Y			
+H20020	Position(직책)	E102	876	IT Systems Applications Leader	IT Systems Applications Leader		1606	Y			
+H20020	Position(직책)	E102	877	Sr Manager Metal Procurement & Recycling	Sr Manager Metal Procurement & Recycling		1607	Y			
+H20020	Position(직책)	E102	879	Manager R&D Center	Manager R&D Center		1609	Y			
+H20020	Position(직책)	E102	880	Sr.Manager Operations & Production Planning	Sr.Manager Operations & Production Planning		1610	Y			
+H20020	Position(직책)	E102	881	Manager Procurement	Manager Procurement		1611	Y			
+H20020	Position(직책)	E102	882	Sr Qual Analyst	Sr Qual Analyst		1612	Y			
+H20020	Position(직책)	E102	883	Manager, HR Projects	Manager, HR Projects		1613	Y			
+H20020	Position(직책)	E102	884	Project Specialist	Project Specialist		1614	Y			
+H20020	Position(직책)	E102	885	Manager Finance Value Stream	Manager Finance Value Stream		1615	Y			
+H20020	Position(직책)	E102	886	NA	NA		1616	Y			
+H20020	Position(직책)	E102	887	Associate Auditor	Associate Auditor		1617	Y			
+H20020	Position(직책)	E102	888	Sales Lead	Sales Lead		1618	Y			
+H20020	Position(직책)	E102	889	Sr Reliab Engineer	Sr Reliab Engineer		1619	Y			
+H20020	Position(직책)	E102	890	Sr Sales Coordinator	Sr Sales Coordinator		1620	Y			
+H20020	Position(직책)	E102	891	Accounting Lead	Accounting Lead		1621	Y			
+H20020	Position(직책)	E102	892	Director Treasury	Director Treasury		1622	Y			
+H20020	Position(직책)	E102	893	Associate EHS Engineer	Associate EHS Engineer		1623	Y			
+H20020	Position(직책)	E102	894	Sr Financial Analyst	Sr Financial Analyst		1624	Y			
+H20020	Position(직책)	E102	895	Hot Mill Tech Leader	Hot Mill Tech Leader		1625	Y			
+H20020	Position(직책)	E102	896	Sr Manager Operations IT	Sr Manager Operations IT		1626	Y			
+H20020	Position(직책)	E102	897	Intern	Intern		1627	Y			
+H20020	Position(직책)	E102	898	IT Applications Leader	IT Applications Leader		1628	Y			
+H20020	Position(직책)	E102	899	EHS Specialist	EHS Specialist		1629	Y			
+H20020	Position(직책)	E102	900	Sr Materials Technologist	Sr Materials Technologist		1630	Y			
+H20020	Position(직책)	E102	901	VP Procurement	VP Procurement		1631	Y			
+H20020	Position(직책)	E102	902	Customs Specialist	Customs Specialist		1632	Y			
+H20020	Position(직책)	E102	903	Manager LR & GA	Manager LR & GA		1633	Y			
+H20020	Position(직책)	E102	904	Sr Manager Sales	Sr Manager Sales		1634	Y			
+H20020	Position(직책)	E102	905	Head of Metal Procurement	Head of Metal Procurement		1635	Y			
+H20020	Position(직책)	E102	906	Customs Lead	Customs Lead		1636	Y			
+H20020	Position(직책)	E102	907	Finance Lead	Finance Lead		1637	Y			
+H20020	Position(직책)	E102	908	Supply Chain Planning Lead	Supply Chain Planning Lead		1638	Y			
+H20020	Position(직책)	E102	909	Sr Auditor	Sr Auditor		1639	Y			
+H20020	Position(직책)	E102	910	Sr Manager Customs & Trade	Sr Manager Customs & Trade		1640	Y			
+H20020	Position(직책)	E102	911	Manager Sourcing	Manager Sourcing		1641	Y			
+H20020	Position(직책)	E102	912	Manager Fin Planning&Analysis	Manager Fin Planning&Analysis		1642	Y			
+H20020	Position(직책)	E102	913	Sr Talent Manage Specialist	Sr Talent Manage Specialist		1643	Y			
+H20020	Position(직책)	E102	914	Sr Manager Customer Service	Sr Manager Customer Service		1644	Y			
+H20020	Position(직책)	E102	915	Accounting Analyst	Accounting Analyst		1645	Y			
+H20020	Position(직책)	E102	916	Manager Digitalization	Manager Digitalization		1646	Y			
+H20020	Position(직책)	E102	917	Data Engineer	Data Engineer		1647	Y			
+H20020	Position(직책)	E102	918	Procurement Specialist	Procurement Specialist		1648	Y			
+H20020	Position(직책)	E102	919	VP Can	VP Can		1649	Y			
+H20020	Position(직책)	E102	920	Director Technical	Director Technical		1650	Y			
+H20020	Position(직책)	E102	921	Manager IT Applications	Manager IT Applications		1651	Y			
+H20020	Position(직책)	E102	922	Sr Manager Finance	Sr Manager Finance		1652	Y			
+H20020	Position(직책)	E102	923	Manager Internal Audit	Manager Internal Audit		1653	Y			
+H20020	Position(직책)	E102	924	Sr Logistics Planner	Sr Logistics Planner		1654	Y			
+H20020	Position(직책)	E102	925	Operations Controller	Operations Controller		1655	Y			
+H20020	Position(직책)	E102	926	IT Manager	IT Manager		1656	Y			
+H20020	Position(직책)	E102	927	Assoc Facility Leader	Assoc Facility Leader		1657	Y			
+H20020	Position(직책)	E102	928	Administrative Coordinator	Administrative Coordinator		1658	Y			
+H20020	Position(직책)	E102	929	Sr IT Business Systems Spec	Sr IT Business Systems Spec		1659	Y			
+H20020	Position(직책)	E102	930	Strategy Lead	Strategy Lead		1660	Y			
+H20020	Position(직책)	E102	931	IT Business Systems Spec	IT Business Systems Spec		1661	Y			
+H20020	Position(직책)	E102	932	Assoc Facility Coordinator	Assoc Facility Coordinator		1662	Y			
+H20020	Position(직책)	E102	933	Sr IT Business Sys Specialist	Sr IT Business Sys Specialist		1663	Y			
+H20020	Position(직책)	E102	934	Sr Metal Procurement Analyst	Sr Metal Procurement Analyst		1664	Y			
+H20020	Position(직책)	E102	935	Sr Customs Specialist	Sr Customs Specialist		1665	Y			
+H20020	Position(직책)	E102	936	Sr Labor Relations Specialist	Sr Labor Relations Specialist		1666	Y			
+H20020	Position(직책)	E102	937	Sr Autom Engineer	Sr Autom Engineer		1667	Y			
+H20020	Position(직책)	E102	938	Mtlurgy Technologist	Mtlurgy Technologist		1668	Y			
+H20020	Position(직책)	E102	940	IT Business Systems Specialist	IT Business Systems Specialist		1670	Y			
+H20020	Position(직책)	E102	941	Tolling Specialist	Tolling Specialist		1671	Y			
+H20020	Position(직책)	E102	942	Assoc Supply Chain Planner	Assoc Supply Chain Planner		1672	Y			
+H20020	Position(직책)	E102	943	Assoc Buyer	Assoc Buyer		1673	Y			
+H20020	Position(직책)	E102	944	Pres & CEO Ulsan Aluminum	Pres & CEO Ulsan Aluminum		1674	Y			
+H20020	Position(직책)	E102	945	Director Sales	Director Sales		1675	Y			
+H20020	Position(직책)	E102	946	Sr Manager Technology	Sr Manager Technology		1676	Y			
+H20020	Position(직책)	E102	947	Sr Manager Technical Services	Sr Manager Technical Services		1677	Y			
+H20020	Position(직책)	E102	948	Sr Manager Supply Chain	Sr Manager Supply Chain		1678	Y			
+H20020	Position(직책)	E102	949	Sr Manager Procurement	Sr Manager Procurement		1679	Y			
+H20020	Position(직책)	E102	950	Facility Leader	Facility Leader		1680	Y			
+H20020	Position(직책)	E102	951	Sr Facility Coordinator	Sr Facility Coordinator		1681	Y			
+H20020	Position(직책)	E102	952	Lead Qual Engineer	Lead Qual Engineer		1682	Y			
+H20020	Position(직책)	E102	953	IT Business Systems Lead	IT Business Systems Lead		1683	Y			
+H20020	Position(직책)	E102	954	Lead Elect Engineer	Lead Elect Engineer		1684	Y			
+H20020	Position(직책)	E102	955	Manager Human Resources	Manager Human Resources		1685	Y			
+H20020	Position(직책)	E102	956	Plant IT Applications Leader	Plant IT Applications Leader		1686	Y			
+H20020	Position(직책)	E102	957	Sr IT Infra Spec	Sr IT Infra Spec		1687	Y			
+H20020	Position(직책)	E102	958	Sr Human Resources Specialist	Sr Human Resources Specialist		1688	Y			
+H20020	Position(직책)	E102	959	Mgr IT Applications	Mgr IT Applications		1689	Y			
+H20020	Position(직책)	E102	960	Process Engineer	Process Engineer		1690	Y			
+H20020	Position(직책)	E102	961	Prod Process & Qual Leader	Prod Process & Qual Leader		1691	Y			
+H20020	Position(직책)	E102	962	Manager Strategy	Manager Strategy		1692	Y			
+H20020	Position(직책)	E102	963	Data Scientist	Data Scientist		1693	Y			
+H20020	Position(직책)	E102	964	Manager World Class Manufacturing	Manager World Class Manufacturing		1694	Y			
+H20020	Position(직책)	E102	965	Operator Care Leader	Operator Care Leader		1695	Y			
+H20020	Position(직책)	E102	966	Planned Maintenance Leader	Planned Maintenance Leader		1696	Y			
+H20020	Position(직책)	E102	967	Progressive Quality Leader	Progressive Quality Leader		1697	Y			
+H20020	Position(직책)	E102	968	Assoc IT Business Systems Spec	Assoc IT Business Systems Spec		1698	Y			
+H20020	Position(직책)	E102	969	Assoc Sourcing Coordinator	Assoc Sourcing Coordinator		1699	Y			
+H20020	Position(직책)	E102	970	Manager Regional Planning	Manager Regional Planning		1700	Y			
+H20020	Position(직책)	E102	971	Operation Coordinator	Operation Coordinator		1701	Y			
+H20020	Position(직책)	E102	972	Material Lead	Material Lead		1702	Y			
+H20020	Position(직책)	E102	973	Maintenance Planner	Maintenance Planner		1703	Y			
+H20020	Position(직책)	E102	974	Maintenance Technician	Maintenance Technician		1704	Y			
+H20020	Position(직책)	E102	975	CM3 Shift Leader	CM3 Shift Leader		1705	Y			
+H20020	Position(직책)	E102	976	CM3 Sub Operator	CM3 Sub Operator		1706	Y			
+H20020	Position(직책)	E102	977	CM3 Entry Operator	CM3 Entry Operator		1707	Y			
+H20020	Position(직책)	E102	978	CM3 Inspection Operator	CM3 Inspection Operator		1708	Y			
+H20020	Position(직책)	E102	979	CM3 CPU Operator	CM3 CPU Operator		1709	Y			
+H20020	Position(직책)	E102	980	CM3 Forklift Driver	CM3 Forklift Driver		1710	Y			
+H20020	Position(직책)	E102	981	RG#5 Operator	RG#5 Operator		1711	Y			
+H20020	Position(직책)	E102	982	SL4 Main Operator	SL4 Main Operator		1712	Y			
+H20020	Position(직책)	E102	983	SL4 Sub Operator	SL4 Sub Operator		1713	Y			
+H20020	Position(직책)	E102	984	TL Main Operator	TL Main Operator		1714	Y			
+H20020	Position(직책)	E102	985	TL Sub Operator	TL Sub Operator		1715	Y			
+H20020	Position(직책)	E102	986	Environmental Equipment Technician	Environmental Equipment Technician		1716	Y			
+H20020	Position(직책)	E102	987	Civil Technician	Civil Technician		1717	Y			
+H20020	Position(직책)	E102	988	Compliance Lead	Compliance Lead		1718	Y			
+H20020	Position(직책)	E102	989	IT Network Lead	IT Network Lead		1719	Y			
+H20020	Position(직책)	E102	990	Manager Treasury	Manager Treasury		1720	Y			
+H20020	Position(직책)	E102	991	Sr Accounting Analyst	Sr Accounting Analyst		1721	Y			
+H20020	Position(직책)	E102	992	Manager HRBP & Talent Managemet	Manager HRBP & Talent Managemet		1722	Y			
+H20020	Position(직책)	E102	993	Manager Technical Service	Manager Technical Service		1723	Y			
+H20020	Position(직책)	E102	994	Lead Tech Serv Rep	Lead Tech Serv Rep		1724	Y			
+H20020	Position(직책)	E102	995	Assoc Customer Service Rep	Assoc Customer Service Rep		1725	Y			
+H20020	Position(직책)	E102	996	Intrim Head of FP&A	Intrim Head of FP&A		1726	Y			
+H20020	Position(직책)	E102	997	ASI Core Leader	ASI Core Leader		1727	Y			
+H20020	Position(직책)	E102	998	Treasury Lead	Treasury Lead		1728	Y			
+H20020	Position(직책)	E102	999	Manager Stat & Fin Transformation	Manager Stat & Fin Transformation		1729	Y			
+H20020	Position(직책)	E102	1000	Sr Analyst Fin Transformation	Sr Analyst Fin Transformation		1730	Y			
+H20020	Position(직책)	E102	1111	Sales Administration Leader	Sales Administration Leader		1731	Y			
+H20020	Position(직책)	E102	1112	Sr Manager Commercial Planning	Sr Manager Commercial Planning		1732	Y			
+H10050	Function	E105	J0041	Human Resources	Human Resources		41	N	NOV_HR		
+H10050	Function	E105	J0042	Information Technology	Information Technology		42	N	NOV_IT		
+H10050	Function	E105	J0043	Legal	Legal		43	N	NOV_LEG		
+H10050	Function	E105	J0045	Procurement	Procurement		45	N	NOV_COM		
+H10050	Function	E105	J0046	Communications & Government Affairs	Communications & Government Affairs		46	N	NOV_PRD		
+H10050	Function	E105	J0049	Production / Operations	Production / Operations		49	N	NOV_OPR		
+H10050	Function	E105	J0050	Research & Development	Research & Development		50	N	NOV_QCR		
+H10050	Function	E105	J0051	Finance & Accounts	Finance & Accounts		51	N	NOV_FIN		
+H10050	Function	E105	J0052	Supply Chain	Supply Chain		52	N	NOV_LOG		
+H10050	Function	E105	J0053	Sales & Commercial	Sales & Commercial		53	N	NOV_SLS		
+H10050	Function	E105	J0057	Engineering / Maintenance	Engineering / Maintenance		57	N	NOV_MNT		
+H10050	Function	E105	J0058	Office of the CEO	Office of the CEO		58	N	NOV_PLN		
+H10050	Function	E105	J0059	Projects	Projects		59	N	NOV_PRO		
+H10050	Function	E105	J0060	Admin & Employee Services	Admin & Employee Services		60	N	NOV_ADM		
+H10050	Function	E105	J0061	Human Resources	Human Resources		1	Y	HR		
+H10050	Function	E105	J0062	Sales	Sales		2	Y	SLS		
+H10050	Function	E105	J0063	Sourcing & Procurement	Sourcing & Procurement		3	Y	SPR		
+H10050	Function	E105	J0064	Sales & Marketing	Sales & Marketing		4	Y	MKT		
+H10050	Function	E105	J0065	Manufacturing Operations	Manufacturing Operations		5	Y	MFO		
+H10050	Function	E105	J0066	Engg, Main & Utility Services	Engg, Main & Utility Services		6	Y	EMU		
+H10050	Function	E105	J0067	Health, Safety and Environment	Health, Safety and Environment		7	Y	HSE		
+H10050	Function	E105	J0068	Supply Chain & Logistics	Supply Chain & Logistics		8	Y	SCL		
+H10050	Function	E105	J0069	Research & Development	Research & Development		9	Y	RND		
+H10050	Function	E105	J0070	General Management	General Management		10	Y	GMT		
+H10050	Function	E105	J0071	Business Excellence	Business Excellence		11	Y	BSE		
+H10050	Function	E105	J0072	Legal	Legal		12	Y	LEG		
+H10050	Function	E105	J0073	Finance & Accounts	Finance & Accounts		13	Y	FIN		
+H10050	Function	E105	J0074	Quality and Technical Services	Quality and Technical Services		14	Y	QTS		
+H10050	Function	E105	J0075	Information Technology	Information Technology		15	Y	IT		
+H10050	Function	E105	J0076	Risk Management & Compliance	Risk Management & Compliance		16	Y	RMC		
+H10050	Function	E105	J0077	Sustainability	Sustainability		17	Y	SUT		
+H10050	Function	E105	J0078	Admin & Support Services	Admin & Support Services		18	Y	ASS		
+H10050	Function	E105	J0079	Corp Affairs, Comm & CSR	Corp Affairs, Comm & CSR		19	Y	CAF		
+H10050	Function	E105	J0080	Projects	Projects		20	Y	PRO		
+H10050	Function	E105	J0081	Strategy & Planning	Strategy & Planning		21	Y	PLN		
+H10050	Function	E105	J0082	Production / Operations	Production / Operations		22	Y	OPR		
+H10050	Function	E105	J0083	Engineering / Maintenance	Engineering / Maintenance		23	Y	MNT		
+H10050	Function	E105	J0084	Others	Others		24	Y	OTH		
+H10050	Function	E105	J0085	Logistics and Supply Chain	Logistics and Supply Chain		25	Y	LOG		
+H10050	Function	E105	J0086	Technical Services	Technical Services		26	Y	TEC		
+H10030	직군	E108	61	인턴직	Intern			Y			
+H10030	직군	E108	99	전체	All	경조용직군		N			
+H10030	직군	E108	100	임원	Executives			N			
+H10030	직군	E108	111	일반직	Salaried Employee	Regular		Y			
+H10030	직군	E108	121	기능직	Hourly Employee			Y			Y
+H10030	직군	E108	131	두바이	Dubai			Y			
+H10030	직군	E108	151	파견직	Dispatch			Y	N		
+H10030	직군	E108	241	계약직	Contractor			Y			
+H10030	직군	E108	242	도급계약직	Subcontract			Y	N		
+H10030	직군	E108	299	Expat	Expat			N	N		

@@ -10,15 +10,15 @@ const SRC_BASE_PATH = process.env['SRC_BASE_PATH']
 /**
  * 필수 파라미터
  */
-const F_FileName = 'perPayYearStd'
+const F_FileName = 'SchApr'
 const F_EXACT_PASCAL_FileName = ''
 const F_EXACT_CAMEL_FileName = ''
-const F_GUBUN = 'cpn/basisConfig/perPayYearStd'
+const F_GUBUN = 'ben/scholarship/SchApr'
 
-const T_FileName = 'extraEleMgr'
+const T_FileName = 'infantEduApr'
 const T_EXACT_PASCAL_FileName = ''
 const T_EXACT_CAMEL_FileName = ''
-const T_GUBUN = 'cpn/element/extraEleMgr'
+const T_GUBUN = 'ben/infantEdu/infantEduApr'
 
 const IsOverwrite = true // 동일파일명 덮어쓰기 여부
 const OnlyJsp = false // jsp 파일 하나만 생성 여부

@@ -48,7 +48,7 @@ function waitForGrid(page) {
 
 async function runPuppeteer() {
   browser = await puppeteer.launch({
-    headless: true,
+    headless: false,
     defaultViewport: {
       width: 1920,
       height: 1080
