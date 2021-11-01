@@ -1,0 +1,326 @@
+[
+  {
+    "Vue.js": 111
+  },
+  {
+    "JavaScript": 82
+  },
+  {
+    "ReactJS": 54
+  },
+  {
+    "CSS": 51
+  },
+  {
+    "HTML": 40
+  },
+  {
+    "Node.js": 34
+  },
+  {
+    "TypeScript": 22
+  },
+  {
+    "Webpack": 19
+  },
+  {
+    "AngularJS": 18
+  },
+  {
+    "jQuery": 17
+  },
+  {
+    "Git": 17
+  },
+  {
+    "ES6": 17
+  },
+  {
+    "REST API": 15
+  },
+  {
+    "Angular": 14
+  },
+  {
+    "MySQL": 11
+  },
+  {
+    "HTML5": 10
+  },
+  {
+    "Java": 8
+  },
+  {
+    "Python": 8
+  },
+  {
+    "Next.js": 7
+  },
+  {
+    "React Native": 7
+  },
+  {
+    "Nuxt.js": 6
+  },
+  {
+    "Sass(SCSS)": 6
+  },
+  {
+    "Ruby on Rails": 5
+  },
+  {
+    "MongoDB": 4
+  },
+  {
+    "MariaDB": 4
+  },
+  {
+    "GitHub": 4
+  },
+  {
+    "Vuex": 4
+  },
+  {
+    "Vuetify.js": 4
+  },
+  {
+    "JPA(Java Persistent API)": 4
+  },
+  {
+    "Zeplin": 3
+  },
+  {
+    "Redux.js": 3
+  },
+  {
+    "AWS EC2": 3
+  },
+  {
+    "CSS3": 3
+  },
+  {
+    "Spring": 3
+  },
+  {
+    "Redis": 3
+  },
+  {
+    "Vue CLI": 3
+  },
+  {
+    "Jest": 3
+  },
+  {
+    "NoSQL": 3
+  },
+  {
+    "AWS ElastiCache": 3
+  },
+  {
+    "Jenkins": 3
+  },
+  {
+    "GraphQL": 2
+  },
+  {
+    "D3.js": 2
+  },
+  {
+    "Ionic": 2
+  },
+  {
+    "RxJS": 2
+  },
+  {
+    "GCP(Google Cloud Platform)": 2
+  },
+  {
+    "Docker": 2
+  },
+  {
+    "styled-components": 2
+  },
+  {
+    "Cypress": 2
+  },
+  {
+    "Android": 2
+  },
+  {
+    "iOS": 2
+  },
+  {
+    "PHP": 2
+  },
+  {
+    "Elasticsearch": 2
+  },
+  {
+    "Neo4j": 2
+  },
+  {
+    "SOAP": 2
+  },
+  {
+    "AWS CloudSearch": 2
+  },
+  {
+    "Apache Hadoop": 2
+  },
+  {
+    "Apache HBase": 2
+  },
+  {
+    "Amazon Web Services(AWS)": 2
+  },
+  {
+    "Django": 2
+  },
+  {
+    "React Admin": 2
+  },
+  {
+    "AWS RDS": 2
+  },
+  {
+    "AWS S3": 2
+  },
+  {
+    "ECMAScript(ES)": 2
+  },
+  {
+    "JIRA": 2
+  },
+  {
+    "PostgreSQL": 2
+  },
+  {
+    "Babel": 2
+  },
+  {
+    "Material-UI": 2
+  },
+  {
+    "Bootstrap": 2
+  },
+  {
+    "MobX": 1
+  },
+  {
+    "Parcel": 1
+  },
+  {
+    "Electron": 1
+  },
+  {
+    "ThreeJS": 1
+  },
+  {
+    "Apache Cordova": 1
+  },
+  {
+    "OOP": 1
+  },
+  {
+    "Database": 1
+  },
+  {
+    "flutter": 1
+  },
+  {
+    "Nginx": 1
+  },
+  {
+    "BitBucket": 1
+  },
+  {
+    "Element UI": 1
+  },
+  {
+    "Quasar Framework": 1
+  },
+  {
+    "Apollo Client": 1
+  },
+  {
+    "Babylon.js": 1
+  },
+  {
+    "MVC": 1
+  },
+  {
+    "Apache": 1
+  },
+  {
+    "AWS ElasticBeanstalk": 1
+  },
+  {
+    "SQL": 1
+  },
+  {
+    "R": 1
+  },
+  {
+    "WordPress": 1
+  },
+  {
+    "Mocha": 1
+  },
+  {
+    "Apache Spark": 1
+  },
+  {
+    "Slack API": 1
+  },
+  {
+    "ExpressJS": 1
+  },
+  {
+    "Firebase": 1
+  },
+  {
+    "AWS ECS": 1
+  },
+  {
+    "CI/CD": 1
+  },
+  {
+    "Haskell": 1
+  },
+  {
+    "Rust": 1
+  },
+  {
+    "SEO": 1
+  },
+  {
+    "gulp": 1
+  },
+  {
+    "Chart.js": 1
+  },
+  {
+    "ASP.NET": 1
+  },
+  {
+    "ASP": 1
+  },
+  {
+    "MSSQL(Microsoft SQL Server)": 1
+  },
+  {
+    "Axios": 1
+  },
+  {
+    "Go": 1
+  },
+  {
+    "Oracle": 1
+  },
+  {
+    "DBA(Database administration)": 1
+  },
+  {
+    "Objective-C": 1
+  }
+]

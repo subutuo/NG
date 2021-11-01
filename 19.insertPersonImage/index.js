@@ -10,8 +10,12 @@ const EHR_NG = {
 }
 
 ;(async () => {
-  const enterCd = 'YJ_DEV'
-  const filenames = fs.readdirSync('picture')
+  // const enterCd = 'YJ_DEV'
+  // const filenames = fs.readdirSync('picture')
+  // const enterCd = 'NVK'
+  // const filenames = fs.readdirSync('D:/20_IDE/workspace/ISU/EHR_NG/WebContent/hrfile/NVK/picture')
+  // const enterCd = 'UAL'
+  // const filenames = fs.readdirSync('D:/20_IDE/workspace/ISU/EHR_NG/WebContent/hrfile/UAL/picture')
   await getTargetList(enterCd, filenames)
 })()
 
@@ -44,7 +48,7 @@ async function getTargetList(enterCd, filenames) {
   :enterCd,
   :seq,
   '/picture',
-  'test',
+  'MIG2021',
   SYSDATE
 )`,
         {enterCd, seq},
@@ -71,7 +75,7 @@ VALUES
     ,:filename
     ,:filename
     ,NULL
-    ,'test'
+    ,'MIG2021'
     ,SYSDATE)
 
             `,
@@ -90,7 +94,7 @@ VALUES
       UPDATE 
          set filename = :filename
            , file_seq = :seq
-           , chkid = 'test'
+           , chkid = 'MIG2021'
            , chkdate = SYSDATE
   WHEN NOT MATCHED THEN
       INSERT (
@@ -110,7 +114,7 @@ VALUES
           :filename,
           NULL, -- SIGN,
           sysdate, -- chkdate,
-          'test', -- chkid,
+          'MIG2021', -- chkid,
           :seq,
           0
       )

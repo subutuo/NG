@@ -7,3 +7,7 @@ ehr_ng_bak_*
 환경정보.md
 19.insertPersonImage/picture
 ~$*.xls*
+25.compareDBToDB/*
+!25.compareDBToDB/*.*
+26.svn 읽어 체크/*
+!26.svn 읽어 체크/*.*

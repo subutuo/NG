@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>비교</title>
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css"
+    />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js"></script>
+    <script>
+      hljs.initHighlightingOnLoad();
+
+      window.addEventListener("load", () => {
+        const sections = Array.from(document.querySelectorAll(".main pre"));
+
+        const scrollHandler = entries =>
+          entries.forEach(entry => {
+            const sectionId = entry.target.previousElementSibling.id;
+            const sectionLink = document.querySelector(
+              `.table-of-contents a[href="#${sectionId}"]`
+            );
+
+            if (entry.intersectionRatio > 0) {
+              sectionLink.classList.add("visible");
+            } else {
+              sectionLink.classList.remove("visible");
+            }
+          });
+
+        const observer = new IntersectionObserver(scrollHandler);
+        sections.forEach(section => observer.observe(section));
+      });
+    </script>
+    <style>
+      .table-of-contents {
+        height: 100%;
+        width: 375px;
+        position: fixed;
+        z-index: 1;
+        top: 0;
+        left: 0;
+        background: wheat;
+        overflow-x: hidden;
+        font-weight: 600;
+      }
+
+      a.visible {
+        color: crimson !important;
+      }
+
+      .table-of-contents ul {
+        padding-left: 0;
+        padding-top: 11px;
+        padding-bottom: 11px;
+      }
+      .table-of-contents a {
+        padding: 6px 8px 6px 6px;
+        text-decoration: none;
+        font-size: 1rem;
+        color: #818181;
+        display: block;
+      }
+
+      .table-of-contents a:hover {
+        color: #f1f1f1;
+      }
+
+      .main {
+        padding-left: 375px;
+      }
+    </style>
+  </head>
+  <body></body>
+</html>
